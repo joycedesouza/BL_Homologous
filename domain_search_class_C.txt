@@ -1,0 +1,1311 @@
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >ACC-1_class_C	specific	236894	1	383	0	566.828	PRK11289	ampC	 - 	cl21491
+Q#1 - >ACC-1_class_C	superfamily	451269	1	383	0	566.828	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#1 - >ACC-1_class_C	specific	395092	35	383	3.47026e-85	261.669	pfam00144	Beta-lactamase	 - 	cl21491
+Q#1 - >ACC-1_class_C	specific	224594	5	380	8.15475e-57	190.592	COG1680	AmpC	 - 	cl43486
+Q#1 - >ACC-1_class_C	superfamily	224594	5	380	8.15475e-57	190.592	cl43486	AmpC superfamily	 - 	 - 
+Q#1 - >ACC-1_class_C	non-specific	236732	6	386	3.1487e-19	88.1659	PRK10662	PRK10662	 - 	cl21491
+Q#1 - >ACC-1_class_C	non-specific	179620	64	209	7.42934e-09	57.1074	PRK03642	PRK03642	C	cl21491
+Q#1 - >ACC-1_class_C	non-specific	171868	33	258	1.06016e-05	47.1583	PRK13128	PRK13128	C	cl31632
+Q#1 - >ACC-1_class_C	superfamily	171868	33	258	1.06016e-05	47.1583	cl31632	PRK13128 superfamily	C	 - 
+Q#2 - >ACC-2_class_C	specific	236894	31	387	0	550.65	PRK11289	ampC	 - 	cl21491
+Q#2 - >ACC-2_class_C	superfamily	451269	31	387	0	550.65	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#2 - >ACC-2_class_C	specific	395092	39	387	1.28393e-82	255.505	pfam00144	Beta-lactamase	 - 	cl21491
+Q#2 - >ACC-2_class_C	specific	224594	1	384	2.02511e-55	187.125	COG1680	AmpC	 - 	cl43486
+Q#2 - >ACC-2_class_C	superfamily	224594	1	384	2.02511e-55	187.125	cl43486	AmpC superfamily	 - 	 - 
+Q#2 - >ACC-2_class_C	non-specific	236732	1	368	3.61455e-18	85.0843	PRK10662	PRK10662	 - 	cl21491
+Q#2 - >ACC-2_class_C	non-specific	179620	68	213	2.91278e-07	52.0998	PRK03642	PRK03642	C	cl21491
+Q#2 - >ACC-2_class_C	non-specific	171868	37	262	7.48836e-05	44.4619	PRK13128	PRK13128	C	cl31632
+Q#2 - >ACC-2_class_C	superfamily	171868	37	262	7.48836e-05	44.4619	cl31632	PRK13128 superfamily	C	 - 
+Q#3 - >ACC-3_class_C	specific	236894	6	377	0	553.346	PRK11289	ampC	 - 	cl21491
+Q#3 - >ACC-3_class_C	superfamily	451269	6	377	0	553.346	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#3 - >ACC-3_class_C	specific	395092	39	376	5.3831e-81	250.883	pfam00144	Beta-lactamase	 - 	cl21491
+Q#3 - >ACC-3_class_C	specific	224594	1	376	1.58154e-56	189.436	COG1680	AmpC	 - 	cl43486
+Q#3 - >ACC-3_class_C	superfamily	224594	1	376	1.58154e-56	189.436	cl43486	AmpC superfamily	 - 	 - 
+Q#3 - >ACC-3_class_C	non-specific	236732	1	368	4.93524e-17	81.6175	PRK10662	PRK10662	 - 	cl21491
+Q#3 - >ACC-3_class_C	non-specific	179620	68	216	3.02929e-11	64.4262	PRK03642	PRK03642	C	cl21491
+Q#3 - >ACC-3_class_C	non-specific	171868	37	225	0.000153984	43.6915	PRK13128	PRK13128	C	cl31632
+Q#3 - >ACC-3_class_C	superfamily	171868	37	225	0.000153984	43.6915	cl31632	PRK13128 superfamily	C	 - 
+Q#4 - >ACC-4_class_C	specific	236894	1	383	0	563.747	PRK11289	ampC	 - 	cl21491
+Q#4 - >ACC-4_class_C	superfamily	451269	1	383	0	563.747	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#4 - >ACC-4_class_C	specific	395092	35	383	9.08931e-85	260.898	pfam00144	Beta-lactamase	 - 	cl21491
+Q#4 - >ACC-4_class_C	specific	224594	5	380	1.24605e-56	190.206	COG1680	AmpC	 - 	cl43486
+Q#4 - >ACC-4_class_C	superfamily	224594	5	380	1.24605e-56	190.206	cl43486	AmpC superfamily	 - 	 - 
+Q#4 - >ACC-4_class_C	non-specific	236732	6	386	3.77034e-19	87.7807	PRK10662	PRK10662	 - 	cl21491
+Q#4 - >ACC-4_class_C	non-specific	179620	64	209	7.29828e-09	57.1074	PRK03642	PRK03642	C	cl21491
+Q#4 - >ACC-4_class_C	non-specific	171868	33	258	4.89652e-06	48.3139	PRK13128	PRK13128	C	cl31632
+Q#4 - >ACC-4_class_C	superfamily	171868	33	258	4.89652e-06	48.3139	cl31632	PRK13128 superfamily	C	 - 
+Q#5 - >ACT-1_class_C	specific	236894	1	381	0	638.86	PRK11289	ampC	 - 	cl21491
+Q#5 - >ACT-1_class_C	superfamily	451269	1	381	0	638.86	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#5 - >ACT-1_class_C	specific	395092	33	381	1.04058e-98	296.337	pfam00144	Beta-lactamase	 - 	cl21491
+Q#5 - >ACT-1_class_C	specific	224594	1	380	1.05694e-59	197.91	COG1680	AmpC	 - 	cl43486
+Q#5 - >ACT-1_class_C	superfamily	224594	1	380	1.05694e-59	197.91	cl43486	AmpC superfamily	 - 	 - 
+Q#5 - >ACT-1_class_C	non-specific	236732	3	364	1.7059e-24	103.189	PRK10662	PRK10662	 - 	cl21491
+Q#5 - >ACT-1_class_C	non-specific	171868	47	254	2.22097e-09	58.7143	PRK13128	PRK13128	C	cl31632
+Q#5 - >ACT-1_class_C	superfamily	171868	47	254	2.22097e-09	58.7143	cl31632	PRK13128 superfamily	C	 - 
+Q#5 - >ACT-1_class_C	non-specific	179620	1	363	6.22808e-07	50.9442	PRK03642	PRK03642	 - 	cl21491
+Q#6 - >ACT-2_class_C	specific	236894	1	381	0	638.86	PRK11289	ampC	 - 	cl21491
+Q#6 - >ACT-2_class_C	superfamily	451269	1	381	0	638.86	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#6 - >ACT-2_class_C	specific	395092	33	381	2.56282e-98	295.181	pfam00144	Beta-lactamase	 - 	cl21491
+Q#6 - >ACT-2_class_C	specific	224594	1	380	1.11466e-59	197.91	COG1680	AmpC	 - 	cl43486
+Q#6 - >ACT-2_class_C	superfamily	224594	1	380	1.11466e-59	197.91	cl43486	AmpC superfamily	 - 	 - 
+Q#6 - >ACT-2_class_C	non-specific	236732	3	364	4.11965e-24	102.033	PRK10662	PRK10662	 - 	cl21491
+Q#6 - >ACT-2_class_C	non-specific	171868	47	254	4.55652e-09	57.9439	PRK13128	PRK13128	C	cl31632
+Q#6 - >ACT-2_class_C	superfamily	171868	47	254	4.55652e-09	57.9439	cl31632	PRK13128 superfamily	C	 - 
+Q#6 - >ACT-2_class_C	non-specific	179620	1	363	7.43436e-07	50.559	PRK03642	PRK03642	 - 	cl21491
+Q#7 - >ACT-3_class_C	specific	236894	1	380	0	636.934	PRK11289	ampC	 - 	cl21491
+Q#7 - >ACT-3_class_C	superfamily	451269	1	380	0	636.934	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#7 - >ACT-3_class_C	specific	395092	32	380	1.30547e-99	298.648	pfam00144	Beta-lactamase	 - 	cl21491
+Q#7 - >ACT-3_class_C	specific	224594	2	379	3.15434e-60	199.451	COG1680	AmpC	 - 	cl43486
+Q#7 - >ACT-3_class_C	superfamily	224594	2	379	3.15434e-60	199.451	cl43486	AmpC superfamily	 - 	 - 
+Q#7 - >ACT-3_class_C	non-specific	236732	2	363	4.64142e-25	104.729	PRK10662	PRK10662	 - 	cl21491
+Q#7 - >ACT-3_class_C	non-specific	171868	46	253	1.1085e-08	56.7883	PRK13128	PRK13128	C	cl31632
+Q#7 - >ACT-3_class_C	superfamily	171868	46	253	1.1085e-08	56.7883	cl31632	PRK13128 superfamily	C	 - 
+Q#7 - >ACT-3_class_C	non-specific	179620	2	210	9.56089e-07	50.559	PRK03642	PRK03642	C	cl21491
+Q#8 - >ACT-4_class_C	specific	236894	1	381	0	637.32	PRK11289	ampC	 - 	cl21491
+Q#8 - >ACT-4_class_C	superfamily	451269	1	381	0	637.32	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#8 - >ACT-4_class_C	specific	395092	32	381	5.66383e-100	299.418	pfam00144	Beta-lactamase	 - 	cl21491
+Q#8 - >ACT-4_class_C	specific	224594	2	379	2.38402e-60	199.836	COG1680	AmpC	 - 	cl43486
+Q#8 - >ACT-4_class_C	superfamily	224594	2	379	2.38402e-60	199.836	cl43486	AmpC superfamily	 - 	 - 
+Q#8 - >ACT-4_class_C	non-specific	236732	2	363	4.71204e-25	104.729	PRK10662	PRK10662	 - 	cl21491
+Q#8 - >ACT-4_class_C	non-specific	171868	46	253	1.07637e-08	56.7883	PRK13128	PRK13128	C	cl31632
+Q#8 - >ACT-4_class_C	superfamily	171868	46	253	1.07637e-08	56.7883	cl31632	PRK13128 superfamily	C	 - 
+Q#8 - >ACT-4_class_C	non-specific	179620	2	210	9.60955e-07	50.559	PRK03642	PRK03642	C	cl21491
+Q#9 - >ACT-5_class_C	specific	236894	1	381	0	625.378	PRK11289	ampC	 - 	cl21491
+Q#9 - >ACT-5_class_C	superfamily	451269	1	381	0	625.378	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#9 - >ACT-5_class_C	specific	395092	32	381	6.17589e-98	294.411	pfam00144	Beta-lactamase	 - 	cl21491
+Q#9 - >ACT-5_class_C	specific	224594	2	379	9.45543e-57	190.206	COG1680	AmpC	 - 	cl43486
+Q#9 - >ACT-5_class_C	superfamily	224594	2	379	9.45543e-57	190.206	cl43486	AmpC superfamily	 - 	 - 
+Q#9 - >ACT-5_class_C	non-specific	236732	2	363	6.51044e-23	98.5663	PRK10662	PRK10662	 - 	cl21491
+Q#9 - >ACT-5_class_C	non-specific	179620	2	210	3.82992e-10	60.9594	PRK03642	PRK03642	C	cl21491
+Q#9 - >ACT-5_class_C	non-specific	171868	46	253	1.78291e-08	56.0179	PRK13128	PRK13128	C	cl31632
+Q#9 - >ACT-5_class_C	superfamily	171868	46	253	1.78291e-08	56.0179	cl31632	PRK13128 superfamily	C	 - 
+Q#10 - >ACT-6_class_C	specific	236894	1	381	0	637.32	PRK11289	ampC	 - 	cl21491
+Q#10 - >ACT-6_class_C	superfamily	451269	1	381	0	637.32	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#10 - >ACT-6_class_C	specific	395092	32	381	3.70782e-100	299.803	pfam00144	Beta-lactamase	 - 	cl21491
+Q#10 - >ACT-6_class_C	specific	224594	2	379	7.79725e-59	195.599	COG1680	AmpC	 - 	cl43486
+Q#10 - >ACT-6_class_C	superfamily	224594	2	379	7.79725e-59	195.599	cl43486	AmpC superfamily	 - 	 - 
+Q#10 - >ACT-6_class_C	non-specific	236732	2	363	8.58209e-25	103.959	PRK10662	PRK10662	 - 	cl21491
+Q#10 - >ACT-6_class_C	non-specific	171868	46	253	4.63436e-08	54.8623	PRK13128	PRK13128	C	cl31632
+Q#10 - >ACT-6_class_C	superfamily	171868	46	253	4.63436e-08	54.8623	cl31632	PRK13128 superfamily	C	 - 
+Q#10 - >ACT-6_class_C	non-specific	179620	2	362	1.24201e-06	50.1738	PRK03642	PRK03642	 - 	cl21491
+Q#11 - >ACT-7_class_C	specific	236894	1	381	0	627.304	PRK11289	ampC	 - 	cl21491
+Q#11 - >ACT-7_class_C	superfamily	451269	1	381	0	627.304	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#11 - >ACT-7_class_C	specific	395092	32	381	1.23734e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#11 - >ACT-7_class_C	specific	224594	2	377	5.68233e-58	193.288	COG1680	AmpC	 - 	cl43486
+Q#11 - >ACT-7_class_C	superfamily	224594	2	377	5.68233e-58	193.288	cl43486	AmpC superfamily	 - 	 - 
+Q#11 - >ACT-7_class_C	non-specific	236732	2	363	2.35746e-24	102.803	PRK10662	PRK10662	 - 	cl21491
+Q#11 - >ACT-7_class_C	non-specific	179620	2	210	6.7228e-09	57.1074	PRK03642	PRK03642	C	cl21491
+Q#11 - >ACT-7_class_C	non-specific	171868	46	253	3.58628e-08	54.8623	PRK13128	PRK13128	C	cl31632
+Q#11 - >ACT-7_class_C	superfamily	171868	46	253	3.58628e-08	54.8623	cl31632	PRK13128 superfamily	C	 - 
+Q#12 - >ACT-8_class_C	specific	236894	1	381	0	639.631	PRK11289	ampC	 - 	cl21491
+Q#12 - >ACT-8_class_C	superfamily	451269	1	381	0	639.631	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#12 - >ACT-8_class_C	specific	395092	33	381	5.60314e-99	297.107	pfam00144	Beta-lactamase	 - 	cl21491
+Q#12 - >ACT-8_class_C	specific	224594	1	380	2.81092e-59	196.755	COG1680	AmpC	 - 	cl43486
+Q#12 - >ACT-8_class_C	superfamily	224594	1	380	2.81092e-59	196.755	cl43486	AmpC superfamily	 - 	 - 
+Q#12 - >ACT-8_class_C	non-specific	236732	3	364	4.8178e-24	102.033	PRK10662	PRK10662	 - 	cl21491
+Q#12 - >ACT-8_class_C	non-specific	171868	47	254	3.31193e-08	55.2475	PRK13128	PRK13128	C	cl31632
+Q#12 - >ACT-8_class_C	superfamily	171868	47	254	3.31193e-08	55.2475	cl31632	PRK13128 superfamily	C	 - 
+Q#12 - >ACT-8_class_C	non-specific	179620	1	363	1.00442e-06	50.1738	PRK03642	PRK03642	 - 	cl21491
+Q#13 - >ACT-9_class_C	specific	236894	1	380	0	643.868	PRK11289	ampC	 - 	cl21491
+Q#13 - >ACT-9_class_C	superfamily	451269	1	380	0	643.868	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#13 - >ACT-9_class_C	specific	395092	32	380	1.17112e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#13 - >ACT-9_class_C	specific	224594	5	379	7.82558e-59	195.599	COG1680	AmpC	 - 	cl43486
+Q#13 - >ACT-9_class_C	superfamily	224594	5	379	7.82558e-59	195.599	cl43486	AmpC superfamily	 - 	 - 
+Q#13 - >ACT-9_class_C	non-specific	236732	8	363	7.94945e-26	107.041	PRK10662	PRK10662	 - 	cl21491
+Q#13 - >ACT-9_class_C	non-specific	171868	29	358	2.16812e-09	58.7143	PRK13128	PRK13128	C	cl31632
+Q#13 - >ACT-9_class_C	superfamily	171868	29	358	2.16812e-09	58.7143	cl31632	PRK13128 superfamily	C	 - 
+Q#13 - >ACT-9_class_C	non-specific	179620	72	362	1.26168e-05	46.707	PRK03642	PRK03642	N	cl21491
+Q#14 - >ACT-10_class_C	specific	236894	1	381	0	633.082	PRK11289	ampC	 - 	cl21491
+Q#14 - >ACT-10_class_C	superfamily	451269	1	381	0	633.082	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#14 - >ACT-10_class_C	specific	395092	32	381	4.26939e-98	294.796	pfam00144	Beta-lactamase	 - 	cl21491
+Q#14 - >ACT-10_class_C	specific	224594	2	379	2.53537e-58	194.444	COG1680	AmpC	 - 	cl43486
+Q#14 - >ACT-10_class_C	superfamily	224594	2	379	2.53537e-58	194.444	cl43486	AmpC superfamily	 - 	 - 
+Q#14 - >ACT-10_class_C	non-specific	236732	2	363	1.13256e-22	98.1811	PRK10662	PRK10662	 - 	cl21491
+Q#14 - >ACT-10_class_C	non-specific	171868	46	253	3.46122e-09	58.3291	PRK13128	PRK13128	C	cl31632
+Q#14 - >ACT-10_class_C	superfamily	171868	46	253	3.46122e-09	58.3291	cl31632	PRK13128 superfamily	C	 - 
+Q#14 - >ACT-10_class_C	non-specific	179620	2	362	1.0302e-07	53.2554	PRK03642	PRK03642	 - 	cl21491
+Q#15 - >ACT-12_class_C	specific	236894	1	381	0	630.386	PRK11289	ampC	 - 	cl21491
+Q#15 - >ACT-12_class_C	superfamily	451269	1	381	0	630.386	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#15 - >ACT-12_class_C	specific	395092	32	381	5.35811e-97	291.714	pfam00144	Beta-lactamase	 - 	cl21491
+Q#15 - >ACT-12_class_C	specific	224594	2	379	5.7439e-57	190.977	COG1680	AmpC	 - 	cl43486
+Q#15 - >ACT-12_class_C	superfamily	224594	2	379	5.7439e-57	190.977	cl43486	AmpC superfamily	 - 	 - 
+Q#15 - >ACT-12_class_C	non-specific	236732	2	363	3.33925e-25	105.115	PRK10662	PRK10662	 - 	cl21491
+Q#15 - >ACT-12_class_C	non-specific	171868	46	358	4.15121e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#15 - >ACT-12_class_C	superfamily	171868	46	358	4.15121e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#15 - >ACT-12_class_C	non-specific	179620	2	210	9.06592e-06	47.4774	PRK03642	PRK03642	C	cl21491
+Q#16 - >ACT-14_class_C	specific	236894	1	381	0	628.075	PRK11289	ampC	 - 	cl21491
+Q#16 - >ACT-14_class_C	superfamily	451269	1	381	0	628.075	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#16 - >ACT-14_class_C	specific	395092	32	381	9.22942e-98	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#16 - >ACT-14_class_C	specific	224594	2	379	6.59306e-57	190.592	COG1680	AmpC	 - 	cl43486
+Q#16 - >ACT-14_class_C	superfamily	224594	2	379	6.59306e-57	190.592	cl43486	AmpC superfamily	 - 	 - 
+Q#16 - >ACT-14_class_C	non-specific	236732	2	363	3.92606e-23	99.3367	PRK10662	PRK10662	 - 	cl21491
+Q#16 - >ACT-14_class_C	non-specific	171868	46	346	1.29636e-08	56.4031	PRK13128	PRK13128	C	cl31632
+Q#16 - >ACT-14_class_C	superfamily	171868	46	346	1.29636e-08	56.4031	cl31632	PRK13128 superfamily	C	 - 
+Q#16 - >ACT-14_class_C	non-specific	179620	2	210	2.57715e-08	55.1814	PRK03642	PRK03642	C	cl21491
+Q#17 - >ACT-15_class_C	specific	236894	1	381	0	624.608	PRK11289	ampC	 - 	cl21491
+Q#17 - >ACT-15_class_C	superfamily	451269	1	381	0	624.608	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#17 - >ACT-15_class_C	specific	395092	32	381	1.01664e-96	291.329	pfam00144	Beta-lactamase	 - 	cl21491
+Q#17 - >ACT-15_class_C	specific	224594	2	377	2.07444e-57	192.132	COG1680	AmpC	 - 	cl43486
+Q#17 - >ACT-15_class_C	superfamily	224594	2	377	2.07444e-57	192.132	cl43486	AmpC superfamily	 - 	 - 
+Q#17 - >ACT-15_class_C	non-specific	236732	2	363	2.79226e-23	99.7219	PRK10662	PRK10662	 - 	cl21491
+Q#17 - >ACT-15_class_C	non-specific	179620	2	210	2.10048e-08	55.5666	PRK03642	PRK03642	C	cl21491
+Q#17 - >ACT-15_class_C	non-specific	171868	46	253	4.4e-07	51.7807	PRK13128	PRK13128	C	cl31632
+Q#17 - >ACT-15_class_C	superfamily	171868	46	253	4.4e-07	51.7807	cl31632	PRK13128 superfamily	C	 - 
+Q#18 - >ACT-16_class_C	specific	236894	1	380	0	631.542	PRK11289	ampC	 - 	cl21491
+Q#18 - >ACT-16_class_C	superfamily	451269	1	380	0	631.542	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#18 - >ACT-16_class_C	specific	395092	32	380	1.31907e-97	293.255	pfam00144	Beta-lactamase	 - 	cl21491
+Q#18 - >ACT-16_class_C	specific	224594	2	377	1.97493e-57	192.132	COG1680	AmpC	 - 	cl43486
+Q#18 - >ACT-16_class_C	superfamily	224594	2	377	1.97493e-57	192.132	cl43486	AmpC superfamily	 - 	 - 
+Q#18 - >ACT-16_class_C	non-specific	236732	2	363	6.92272e-26	107.041	PRK10662	PRK10662	 - 	cl21491
+Q#18 - >ACT-16_class_C	non-specific	179620	2	210	8.0654e-10	59.8038	PRK03642	PRK03642	C	cl21491
+Q#18 - >ACT-16_class_C	non-specific	171868	46	253	1.07943e-08	56.7883	PRK13128	PRK13128	C	cl31632
+Q#18 - >ACT-16_class_C	superfamily	171868	46	253	1.07943e-08	56.7883	cl31632	PRK13128 superfamily	C	 - 
+Q#19 - >AmpC_class_C	specific	236894	1	381	0	626.919	PRK11289	ampC	 - 	cl21491
+Q#19 - >AmpC_class_C	superfamily	451269	1	381	0	626.919	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#19 - >AmpC_class_C	specific	395092	32	381	5.54261e-99	297.107	pfam00144	Beta-lactamase	 - 	cl21491
+Q#19 - >AmpC_class_C	specific	224594	2	377	1.13188e-60	200.607	COG1680	AmpC	 - 	cl43486
+Q#19 - >AmpC_class_C	superfamily	224594	2	377	1.13188e-60	200.607	cl43486	AmpC superfamily	 - 	 - 
+Q#19 - >AmpC_class_C	non-specific	236732	1	363	2.10159e-30	119.752	PRK10662	PRK10662	 - 	cl21491
+Q#19 - >AmpC_class_C	non-specific	171868	46	253	5.9882e-08	54.4771	PRK13128	PRK13128	C	cl31632
+Q#19 - >AmpC_class_C	superfamily	171868	46	253	5.9882e-08	54.4771	cl31632	PRK13128 superfamily	C	 - 
+Q#19 - >AmpC_class_C	non-specific	179620	2	210	7.36885e-07	50.9442	PRK03642	PRK03642	C	cl21491
+Q#20 - >beta-lactamase_class-C_class_C	specific	236894	17	395	0	609.97	PRK11289	ampC	 - 	cl21491
+Q#20 - >beta-lactamase_class-C_class_C	superfamily	451269	17	395	0	609.97	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#20 - >beta-lactamase_class-C_class_C	specific	395092	49	393	1.0727e-72	230.082	pfam00144	Beta-lactamase	 - 	cl21491
+Q#20 - >beta-lactamase_class-C_class_C	specific	224594	12	393	1.0585e-50	174.798	COG1680	AmpC	 - 	cl43486
+Q#20 - >beta-lactamase_class-C_class_C	superfamily	224594	12	393	1.0585e-50	174.798	cl43486	AmpC superfamily	 - 	 - 
+Q#20 - >beta-lactamase_class-C_class_C	non-specific	236732	14	370	4.49135e-18	84.6991	PRK10662	PRK10662	 - 	cl21491
+Q#20 - >beta-lactamase_class-C_class_C	non-specific	179620	22	377	1.86361e-05	46.3218	PRK03642	PRK03642	 - 	cl21491
+Q#21 - >BIL-1_class_C	specific	236894	1	381	0	624.223	PRK11289	ampC	 - 	cl21491
+Q#21 - >BIL-1_class_C	superfamily	451269	1	381	0	624.223	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#21 - >BIL-1_class_C	specific	395092	32	381	5.13042e-97	292.099	pfam00144	Beta-lactamase	 - 	cl21491
+Q#21 - >BIL-1_class_C	specific	224594	2	377	2.38402e-60	199.836	COG1680	AmpC	 - 	cl43486
+Q#21 - >BIL-1_class_C	superfamily	224594	2	377	2.38402e-60	199.836	cl43486	AmpC superfamily	 - 	 - 
+Q#21 - >BIL-1_class_C	non-specific	236732	1	363	1.22082e-32	125.915	PRK10662	PRK10662	 - 	cl21491
+Q#21 - >BIL-1_class_C	non-specific	171868	46	201	8.53228e-06	47.5435	PRK13128	PRK13128	C	cl31632
+Q#21 - >BIL-1_class_C	superfamily	171868	46	201	8.53228e-06	47.5435	cl31632	PRK13128 superfamily	C	 - 
+Q#21 - >BIL-1_class_C	non-specific	179620	2	207	1.30166e-05	46.707	PRK03642	PRK03642	C	cl21491
+Q#22 - >CFE-1_class_C	specific	236894	1	381	0	639.631	PRK11289	ampC	 - 	cl21491
+Q#22 - >CFE-1_class_C	superfamily	451269	1	381	0	639.631	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#22 - >CFE-1_class_C	specific	395092	32	381	7.02872e-97	291.714	pfam00144	Beta-lactamase	 - 	cl21491
+Q#22 - >CFE-1_class_C	specific	224594	7	377	1.81351e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#22 - >CFE-1_class_C	superfamily	224594	7	377	1.81351e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#22 - >CFE-1_class_C	non-specific	236732	1	363	3.92332e-30	118.982	PRK10662	PRK10662	 - 	cl21491
+Q#22 - >CFE-1_class_C	non-specific	171868	46	277	9.73403e-08	53.7067	PRK13128	PRK13128	C	cl31632
+Q#22 - >CFE-1_class_C	superfamily	171868	46	277	9.73403e-08	53.7067	cl31632	PRK13128 superfamily	C	 - 
+Q#22 - >CFE-1_class_C	non-specific	179620	2	207	0.000105938	44.0106	PRK03642	PRK03642	C	cl21491
+Q#23 - >CMG_class_C	specific	236894	1	351	0	574.147	PRK11289	ampC	 - 	cl21491
+Q#23 - >CMG_class_C	superfamily	451269	1	351	0	574.147	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#23 - >CMG_class_C	specific	395092	27	351	6.51424e-88	267.447	pfam00144	Beta-lactamase	 - 	cl21491
+Q#23 - >CMG_class_C	specific	224594	1	351	9.35682e-50	170.946	COG1680	AmpC	 - 	cl43486
+Q#23 - >CMG_class_C	superfamily	224594	1	351	9.35682e-50	170.946	cl43486	AmpC superfamily	 - 	 - 
+Q#23 - >CMG_class_C	non-specific	236732	3	351	7.21727e-25	103.574	PRK10662	PRK10662	 - 	cl21491
+Q#23 - >CMG_class_C	non-specific	171868	18	248	7.66492e-09	56.7883	PRK13128	PRK13128	C	cl31632
+Q#23 - >CMG_class_C	superfamily	171868	18	248	7.66492e-09	56.7883	cl31632	PRK13128 superfamily	C	 - 
+Q#23 - >CMG_class_C	non-specific	179620	67	205	4.56441e-05	44.781	PRK03642	PRK03642	NC	cl21491
+Q#24 - >CMY-1_class_C	specific	236894	5	381	0	616.904	PRK11289	ampC	 - 	cl21491
+Q#24 - >CMY-1_class_C	superfamily	451269	5	381	0	616.904	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#24 - >CMY-1_class_C	specific	395092	36	381	1.17296e-86	265.521	pfam00144	Beta-lactamase	 - 	cl21491
+Q#24 - >CMY-1_class_C	specific	224594	4	377	2.31769e-48	168.25	COG1680	AmpC	 - 	cl43486
+Q#24 - >CMY-1_class_C	superfamily	224594	4	377	2.31769e-48	168.25	cl43486	AmpC superfamily	 - 	 - 
+Q#24 - >CMY-1_class_C	non-specific	236732	11	382	5.87076e-18	84.3139	PRK10662	PRK10662	 - 	cl21491
+Q#24 - >CMY-1_class_C	non-specific	179620	50	362	9.32544e-05	44.0106	PRK03642	PRK03642	 - 	cl21491
+Q#25 - >CMY-2_class_C	specific	236894	1	381	0	631.156	PRK11289	ampC	 - 	cl21491
+Q#25 - >CMY-2_class_C	superfamily	451269	1	381	0	631.156	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#25 - >CMY-2_class_C	specific	395092	32	381	4.21976e-97	292.099	pfam00144	Beta-lactamase	 - 	cl21491
+Q#25 - >CMY-2_class_C	specific	224594	2	377	1.40037e-60	200.221	COG1680	AmpC	 - 	cl43486
+Q#25 - >CMY-2_class_C	superfamily	224594	2	377	1.40037e-60	200.221	cl43486	AmpC superfamily	 - 	 - 
+Q#25 - >CMY-2_class_C	non-specific	236732	1	363	8.77096e-30	117.826	PRK10662	PRK10662	 - 	cl21491
+Q#25 - >CMY-2_class_C	non-specific	171868	46	277	3.86932e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#25 - >CMY-2_class_C	superfamily	171868	46	277	3.86932e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#25 - >CMY-2_class_C	non-specific	179620	2	368	3.55566e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#26 - >CMY-4_class_C	specific	236894	1	381	0	631.156	PRK11289	ampC	 - 	cl21491
+Q#26 - >CMY-4_class_C	superfamily	451269	1	381	0	631.156	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#26 - >CMY-4_class_C	specific	395092	32	381	1.83029e-98	295.566	pfam00144	Beta-lactamase	 - 	cl21491
+Q#26 - >CMY-4_class_C	specific	224594	2	377	2.2923e-61	202.147	COG1680	AmpC	 - 	cl43486
+Q#26 - >CMY-4_class_C	superfamily	224594	2	377	2.2923e-61	202.147	cl43486	AmpC superfamily	 - 	 - 
+Q#26 - >CMY-4_class_C	non-specific	236732	1	363	1.58574e-31	122.834	PRK10662	PRK10662	 - 	cl21491
+Q#26 - >CMY-4_class_C	non-specific	171868	46	277	2.92045e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#26 - >CMY-4_class_C	superfamily	171868	46	277	2.92045e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#26 - >CMY-4_class_C	non-specific	179620	2	368	3.343e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#27 - >CMY-5_class_C	specific	236894	1	381	0	634.238	PRK11289	ampC	 - 	cl21491
+Q#27 - >CMY-5_class_C	superfamily	451269	1	381	0	634.238	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#27 - >CMY-5_class_C	specific	395092	32	381	1.2645e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#27 - >CMY-5_class_C	specific	224594	2	377	9.34544e-61	200.607	COG1680	AmpC	 - 	cl43486
+Q#27 - >CMY-5_class_C	superfamily	224594	2	377	9.34544e-61	200.607	cl43486	AmpC superfamily	 - 	 - 
+Q#27 - >CMY-5_class_C	non-specific	236732	1	363	2.87168e-30	119.367	PRK10662	PRK10662	 - 	cl21491
+Q#27 - >CMY-5_class_C	non-specific	171868	46	277	8.23774e-06	47.5435	PRK13128	PRK13128	C	cl31632
+Q#27 - >CMY-5_class_C	superfamily	171868	46	277	8.23774e-06	47.5435	cl31632	PRK13128 superfamily	C	 - 
+Q#27 - >CMY-5_class_C	non-specific	179620	2	368	0.000110703	44.0106	PRK03642	PRK03642	 - 	cl21491
+Q#28 - >CMY-6_class_C	specific	236894	1	381	0	630.771	PRK11289	ampC	 - 	cl21491
+Q#28 - >CMY-6_class_C	superfamily	451269	1	381	0	630.771	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#28 - >CMY-6_class_C	specific	395092	32	381	1.22398e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#28 - >CMY-6_class_C	specific	224594	2	377	2.34165e-61	202.147	COG1680	AmpC	 - 	cl43486
+Q#28 - >CMY-6_class_C	superfamily	224594	2	377	2.34165e-61	202.147	cl43486	AmpC superfamily	 - 	 - 
+Q#28 - >CMY-6_class_C	non-specific	236732	1	363	1.55398e-31	122.834	PRK10662	PRK10662	 - 	cl21491
+Q#28 - >CMY-6_class_C	non-specific	171868	46	277	1.26612e-06	50.2399	PRK13128	PRK13128	C	cl31632
+Q#28 - >CMY-6_class_C	superfamily	171868	46	277	1.26612e-06	50.2399	cl31632	PRK13128 superfamily	C	 - 
+Q#28 - >CMY-6_class_C	non-specific	179620	2	368	3.52447e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#29 - >CMY-7_class_C	specific	236894	1	381	0	635.008	PRK11289	ampC	 - 	cl21491
+Q#29 - >CMY-7_class_C	superfamily	451269	1	381	0	635.008	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#29 - >CMY-7_class_C	specific	395092	32	381	3.29085e-99	297.492	pfam00144	Beta-lactamase	 - 	cl21491
+Q#29 - >CMY-7_class_C	specific	224594	2	377	3.66885e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#29 - >CMY-7_class_C	superfamily	224594	2	377	3.66885e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#29 - >CMY-7_class_C	non-specific	236732	1	363	7.12806e-32	123.604	PRK10662	PRK10662	 - 	cl21491
+Q#29 - >CMY-7_class_C	non-specific	171868	46	277	5.93704e-07	51.3955	PRK13128	PRK13128	C	cl31632
+Q#29 - >CMY-7_class_C	superfamily	171868	46	277	5.93704e-07	51.3955	cl31632	PRK13128 superfamily	C	 - 
+Q#29 - >CMY-7_class_C	non-specific	179620	2	368	8.2802e-05	44.3958	PRK03642	PRK03642	 - 	cl21491
+Q#30 - >CMY-8_class_C	specific	236894	5	381	0	612.667	PRK11289	ampC	 - 	cl21491
+Q#30 - >CMY-8_class_C	superfamily	451269	5	381	0	612.667	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#30 - >CMY-8_class_C	specific	395092	36	381	2.39658e-86	264.75	pfam00144	Beta-lactamase	 - 	cl21491
+Q#30 - >CMY-8_class_C	specific	224594	4	377	5.38289e-47	164.783	COG1680	AmpC	 - 	cl43486
+Q#30 - >CMY-8_class_C	superfamily	224594	4	377	5.38289e-47	164.783	cl43486	AmpC superfamily	 - 	 - 
+Q#30 - >CMY-8_class_C	non-specific	236732	11	362	9.04686e-16	77.7655	PRK10662	PRK10662	 - 	cl21491
+Q#30 - >CMY-8_class_C	non-specific	179620	50	362	1.68887e-05	46.3218	PRK03642	PRK03642	 - 	cl21491
+Q#31 - >CMY-9_class_C	specific	236894	5	381	0	609.2	PRK11289	ampC	 - 	cl21491
+Q#31 - >CMY-9_class_C	superfamily	451269	5	381	0	609.2	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#31 - >CMY-9_class_C	specific	395092	36	381	4.49017e-86	263.98	pfam00144	Beta-lactamase	 - 	cl21491
+Q#31 - >CMY-9_class_C	specific	224594	4	377	4.41154e-47	164.783	COG1680	AmpC	 - 	cl43486
+Q#31 - >CMY-9_class_C	superfamily	224594	4	377	4.41154e-47	164.783	cl43486	AmpC superfamily	 - 	 - 
+Q#31 - >CMY-9_class_C	non-specific	236732	11	362	1.65275e-15	76.9951	PRK10662	PRK10662	 - 	cl21491
+Q#31 - >CMY-9_class_C	non-specific	179620	50	362	2.9684e-06	49.0182	PRK03642	PRK03642	 - 	cl21491
+Q#32 - >CMY-10_class_C	specific	236894	5	381	0	614.978	PRK11289	ampC	 - 	cl21491
+Q#32 - >CMY-10_class_C	superfamily	451269	5	381	0	614.978	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#32 - >CMY-10_class_C	specific	395092	36	381	2.72903e-86	264.365	pfam00144	Beta-lactamase	 - 	cl21491
+Q#32 - >CMY-10_class_C	specific	224594	4	377	5.4218e-48	167.48	COG1680	AmpC	 - 	cl43486
+Q#32 - >CMY-10_class_C	superfamily	224594	4	377	5.4218e-48	167.48	cl43486	AmpC superfamily	 - 	 - 
+Q#32 - >CMY-10_class_C	non-specific	236732	11	362	2.02979e-17	82.7731	PRK10662	PRK10662	 - 	cl21491
+Q#32 - >CMY-10_class_C	non-specific	179620	50	362	9.40786e-05	44.0106	PRK03642	PRK03642	 - 	cl21491
+Q#33 - >CMY-11_class_C	specific	236894	5	381	0	613.437	PRK11289	ampC	 - 	cl21491
+Q#33 - >CMY-11_class_C	superfamily	451269	5	381	0	613.437	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#33 - >CMY-11_class_C	specific	395092	36	381	2.69964e-86	264.365	pfam00144	Beta-lactamase	 - 	cl21491
+Q#33 - >CMY-11_class_C	specific	224594	4	377	5.4218e-48	167.48	COG1680	AmpC	 - 	cl43486
+Q#33 - >CMY-11_class_C	superfamily	224594	4	377	5.4218e-48	167.48	cl43486	AmpC superfamily	 - 	 - 
+Q#33 - >CMY-11_class_C	non-specific	236732	11	362	6.24516e-17	81.2323	PRK10662	PRK10662	 - 	cl21491
+Q#33 - >CMY-11_class_C	non-specific	179620	50	362	9.32544e-05	44.0106	PRK03642	PRK03642	 - 	cl21491
+Q#34 - >CMY-12_class_C	specific	236894	1	381	0	636.164	PRK11289	ampC	 - 	cl21491
+Q#34 - >CMY-12_class_C	superfamily	451269	1	381	0	636.164	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#34 - >CMY-12_class_C	specific	395092	32	381	3.87248e-100	299.803	pfam00144	Beta-lactamase	 - 	cl21491
+Q#34 - >CMY-12_class_C	specific	224594	2	377	2.01994e-62	205.229	COG1680	AmpC	 - 	cl43486
+Q#34 - >CMY-12_class_C	superfamily	224594	2	377	2.01994e-62	205.229	cl43486	AmpC superfamily	 - 	 - 
+Q#34 - >CMY-12_class_C	non-specific	236732	1	362	4.80158e-32	123.989	PRK10662	PRK10662	 - 	cl21491
+Q#34 - >CMY-12_class_C	non-specific	171868	46	277	2.77036e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#34 - >CMY-12_class_C	superfamily	171868	46	277	2.77036e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#34 - >CMY-12_class_C	non-specific	179620	2	368	8.98627e-06	47.4774	PRK03642	PRK03642	 - 	cl21491
+Q#35 - >CMY-13_class_C	specific	236894	1	381	0	636.549	PRK11289	ampC	 - 	cl21491
+Q#35 - >CMY-13_class_C	superfamily	451269	1	381	0	636.549	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#35 - >CMY-13_class_C	specific	395092	32	381	1.09864e-98	296.337	pfam00144	Beta-lactamase	 - 	cl21491
+Q#35 - >CMY-13_class_C	specific	224594	2	377	3.39923e-61	201.762	COG1680	AmpC	 - 	cl43486
+Q#35 - >CMY-13_class_C	superfamily	224594	2	377	3.39923e-61	201.762	cl43486	AmpC superfamily	 - 	 - 
+Q#35 - >CMY-13_class_C	non-specific	236732	1	363	4.29521e-30	118.982	PRK10662	PRK10662	 - 	cl21491
+Q#35 - >CMY-13_class_C	non-specific	179620	2	368	2.0396e-07	52.485	PRK03642	PRK03642	 - 	cl21491
+Q#35 - >CMY-13_class_C	non-specific	171868	46	277	1.32309e-06	50.2399	PRK13128	PRK13128	C	cl31632
+Q#35 - >CMY-13_class_C	superfamily	171868	46	277	1.32309e-06	50.2399	cl31632	PRK13128 superfamily	C	 - 
+Q#36 - >CMY-14_class_C	specific	236894	1	381	0	632.312	PRK11289	ampC	 - 	cl21491
+Q#36 - >CMY-14_class_C	superfamily	451269	1	381	0	632.312	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#36 - >CMY-14_class_C	specific	395092	32	381	1.36516e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#36 - >CMY-14_class_C	specific	224594	2	377	2.0173e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#36 - >CMY-14_class_C	superfamily	224594	2	377	2.0173e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#36 - >CMY-14_class_C	non-specific	236732	1	363	1.46246e-31	122.834	PRK10662	PRK10662	 - 	cl21491
+Q#36 - >CMY-14_class_C	non-specific	171868	46	277	2.42798e-06	49.4695	PRK13128	PRK13128	C	cl31632
+Q#36 - >CMY-14_class_C	superfamily	171868	46	277	2.42798e-06	49.4695	cl31632	PRK13128 superfamily	C	 - 
+Q#36 - >CMY-14_class_C	non-specific	179620	2	368	3.37259e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#37 - >CMY-15_class_C	specific	236894	1	381	0	633.853	PRK11289	ampC	 - 	cl21491
+Q#37 - >CMY-15_class_C	superfamily	451269	1	381	0	633.853	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#37 - >CMY-15_class_C	specific	395092	32	381	6.73929e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#37 - >CMY-15_class_C	specific	224594	2	377	1.40445e-61	202.918	COG1680	AmpC	 - 	cl43486
+Q#37 - >CMY-15_class_C	superfamily	224594	2	377	1.40445e-61	202.918	cl43486	AmpC superfamily	 - 	 - 
+Q#37 - >CMY-15_class_C	non-specific	236732	1	362	5.38614e-31	121.293	PRK10662	PRK10662	 - 	cl21491
+Q#37 - >CMY-15_class_C	non-specific	171868	46	277	2.283e-06	49.4695	PRK13128	PRK13128	C	cl31632
+Q#37 - >CMY-15_class_C	superfamily	171868	46	277	2.283e-06	49.4695	cl31632	PRK13128 superfamily	C	 - 
+Q#37 - >CMY-15_class_C	non-specific	179620	2	368	3.74865e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#38 - >CMY-16_class_C	specific	236894	1	381	0	633.468	PRK11289	ampC	 - 	cl21491
+Q#38 - >CMY-16_class_C	superfamily	451269	1	381	0	633.468	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#38 - >CMY-16_class_C	specific	395092	32	381	1.17269e-99	298.648	pfam00144	Beta-lactamase	 - 	cl21491
+Q#38 - >CMY-16_class_C	specific	224594	2	377	2.90209e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#38 - >CMY-16_class_C	superfamily	224594	2	377	2.90209e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#38 - >CMY-16_class_C	non-specific	236732	1	363	1.55765e-32	125.53	PRK10662	PRK10662	 - 	cl21491
+Q#38 - >CMY-16_class_C	non-specific	171868	46	277	2.84442e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#38 - >CMY-16_class_C	superfamily	171868	46	277	2.84442e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#38 - >CMY-16_class_C	non-specific	179620	2	368	8.0123e-06	47.4774	PRK03642	PRK03642	 - 	cl21491
+Q#39 - >CMY-17_class_C	specific	236894	1	381	0	635.008	PRK11289	ampC	 - 	cl21491
+Q#39 - >CMY-17_class_C	superfamily	451269	1	381	0	635.008	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#39 - >CMY-17_class_C	specific	395092	32	381	7.67737e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#39 - >CMY-17_class_C	specific	224594	2	377	7.25571e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#39 - >CMY-17_class_C	superfamily	224594	2	377	7.25571e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#39 - >CMY-17_class_C	non-specific	236732	1	363	4.77152e-31	121.293	PRK10662	PRK10662	 - 	cl21491
+Q#39 - >CMY-17_class_C	non-specific	171868	46	277	3.18887e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#39 - >CMY-17_class_C	superfamily	171868	46	277	3.18887e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#39 - >CMY-17_class_C	non-specific	179620	2	368	4.79714e-05	45.1662	PRK03642	PRK03642	 - 	cl21491
+Q#40 - >CMY-18_class_C	specific	236894	1	383	0	632.697	PRK11289	ampC	 - 	cl21491
+Q#40 - >CMY-18_class_C	superfamily	451269	1	383	0	632.697	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#40 - >CMY-18_class_C	specific	395092	32	383	1.87503e-98	295.566	pfam00144	Beta-lactamase	 - 	cl21491
+Q#40 - >CMY-18_class_C	specific	224594	2	379	1.51965e-61	202.918	COG1680	AmpC	 - 	cl43486
+Q#40 - >CMY-18_class_C	superfamily	224594	2	379	1.51965e-61	202.918	cl43486	AmpC superfamily	 - 	 - 
+Q#40 - >CMY-18_class_C	non-specific	236732	1	365	5.05275e-31	121.293	PRK10662	PRK10662	 - 	cl21491
+Q#40 - >CMY-18_class_C	non-specific	171868	46	356	3.83986e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#40 - >CMY-18_class_C	superfamily	171868	46	356	3.83986e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#40 - >CMY-18_class_C	non-specific	179620	2	370	3.31485e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#41 - >CMY-19_class_C	specific	236894	5	381	0	608.044	PRK11289	ampC	 - 	cl21491
+Q#41 - >CMY-19_class_C	superfamily	451269	5	381	0	608.044	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#41 - >CMY-19_class_C	specific	395092	36	381	4.49017e-86	263.98	pfam00144	Beta-lactamase	 - 	cl21491
+Q#41 - >CMY-19_class_C	specific	224594	4	377	4.41154e-47	164.783	COG1680	AmpC	 - 	cl43486
+Q#41 - >CMY-19_class_C	superfamily	224594	4	377	4.41154e-47	164.783	cl43486	AmpC superfamily	 - 	 - 
+Q#41 - >CMY-19_class_C	non-specific	236732	11	362	5.55042e-15	75.4543	PRK10662	PRK10662	 - 	cl21491
+Q#41 - >CMY-19_class_C	non-specific	179620	50	362	2.9684e-06	49.0182	PRK03642	PRK03642	 - 	cl21491
+Q#42 - >CMY-20_class_C	specific	236894	1	380	0	635.779	PRK11289	ampC	 - 	cl21491
+Q#42 - >CMY-20_class_C	superfamily	451269	1	380	0	635.779	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#42 - >CMY-20_class_C	specific	395092	31	380	4.75458e-99	297.107	pfam00144	Beta-lactamase	 - 	cl21491
+Q#42 - >CMY-20_class_C	specific	224594	1	376	1.80181e-62	205.229	COG1680	AmpC	 - 	cl43486
+Q#42 - >CMY-20_class_C	superfamily	224594	1	376	1.80181e-62	205.229	cl43486	AmpC superfamily	 - 	 - 
+Q#42 - >CMY-20_class_C	non-specific	236732	1	362	1.98302e-29	117.056	PRK10662	PRK10662	 - 	cl21491
+Q#42 - >CMY-20_class_C	non-specific	171868	45	276	2.85509e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#42 - >CMY-20_class_C	superfamily	171868	45	276	2.85509e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#42 - >CMY-20_class_C	non-specific	179620	1	367	4.77528e-05	45.1662	PRK03642	PRK03642	 - 	cl21491
+Q#43 - >CMY-21_class_C	specific	236894	1	381	0	634.238	PRK11289	ampC	 - 	cl21491
+Q#43 - >CMY-21_class_C	superfamily	451269	1	381	0	634.238	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#43 - >CMY-21_class_C	specific	395092	32	381	5.48274e-99	297.107	pfam00144	Beta-lactamase	 - 	cl21491
+Q#43 - >CMY-21_class_C	specific	224594	2	377	2.24713e-62	204.844	COG1680	AmpC	 - 	cl43486
+Q#43 - >CMY-21_class_C	superfamily	224594	2	377	2.24713e-62	204.844	cl43486	AmpC superfamily	 - 	 - 
+Q#43 - >CMY-21_class_C	non-specific	236732	1	363	6.91474e-32	123.604	PRK10662	PRK10662	 - 	cl21491
+Q#43 - >CMY-21_class_C	non-specific	171868	46	277	5.68118e-07	51.3955	PRK13128	PRK13128	C	cl31632
+Q#43 - >CMY-21_class_C	superfamily	171868	46	277	5.68118e-07	51.3955	cl31632	PRK13128 superfamily	C	 - 
+Q#43 - >CMY-21_class_C	non-specific	179620	2	368	7.78545e-05	44.3958	PRK03642	PRK03642	 - 	cl21491
+Q#44 - >CMY-22_class_C	specific	236894	1	381	0	631.927	PRK11289	ampC	 - 	cl21491
+Q#44 - >CMY-22_class_C	superfamily	451269	1	381	0	631.927	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#44 - >CMY-22_class_C	specific	395092	32	381	1.65987e-98	295.566	pfam00144	Beta-lactamase	 - 	cl21491
+Q#44 - >CMY-22_class_C	specific	224594	2	377	1.06472e-61	203.303	COG1680	AmpC	 - 	cl43486
+Q#44 - >CMY-22_class_C	superfamily	224594	2	377	1.06472e-61	203.303	cl43486	AmpC superfamily	 - 	 - 
+Q#44 - >CMY-22_class_C	non-specific	236732	1	363	2.90862e-31	122.063	PRK10662	PRK10662	 - 	cl21491
+Q#44 - >CMY-22_class_C	non-specific	171868	46	277	2.94625e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#44 - >CMY-22_class_C	superfamily	171868	46	277	2.94625e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#44 - >CMY-22_class_C	non-specific	179620	2	368	5.37899e-05	44.781	PRK03642	PRK03642	 - 	cl21491
+Q#45 - >CMY-23_class_C	specific	236894	1	381	0	631.927	PRK11289	ampC	 - 	cl21491
+Q#45 - >CMY-23_class_C	superfamily	451269	1	381	0	631.927	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#45 - >CMY-23_class_C	specific	395092	32	381	1.33583e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#45 - >CMY-23_class_C	specific	224594	2	377	1.23594e-61	202.918	COG1680	AmpC	 - 	cl43486
+Q#45 - >CMY-23_class_C	superfamily	224594	2	377	1.23594e-61	202.918	cl43486	AmpC superfamily	 - 	 - 
+Q#45 - >CMY-23_class_C	non-specific	236732	1	363	2.43428e-32	125.145	PRK10662	PRK10662	 - 	cl21491
+Q#45 - >CMY-23_class_C	non-specific	171868	46	277	4.21031e-07	51.7807	PRK13128	PRK13128	C	cl31632
+Q#45 - >CMY-23_class_C	superfamily	171868	46	277	4.21031e-07	51.7807	cl31632	PRK13128 superfamily	C	 - 
+Q#45 - >CMY-23_class_C	non-specific	179620	2	368	7.25607e-05	44.3958	PRK03642	PRK03642	 - 	cl21491
+Q#46 - >CMY-24_class_C	specific	236894	1	381	0	633.853	PRK11289	ampC	 - 	cl21491
+Q#46 - >CMY-24_class_C	superfamily	451269	1	381	0	633.853	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#46 - >CMY-24_class_C	specific	395092	32	381	1.83029e-98	295.566	pfam00144	Beta-lactamase	 - 	cl21491
+Q#46 - >CMY-24_class_C	specific	224594	2	377	2.15041e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#46 - >CMY-24_class_C	superfamily	224594	2	377	2.15041e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#46 - >CMY-24_class_C	non-specific	236732	1	363	1.46246e-31	122.834	PRK10662	PRK10662	 - 	cl21491
+Q#46 - >CMY-24_class_C	non-specific	171868	46	277	4.22483e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#46 - >CMY-24_class_C	superfamily	171868	46	277	4.22483e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#46 - >CMY-24_class_C	non-specific	179620	2	368	1.49893e-05	46.707	PRK03642	PRK03642	 - 	cl21491
+Q#47 - >CMY-25_class_C	specific	236894	1	381	0	636.164	PRK11289	ampC	 - 	cl21491
+Q#47 - >CMY-25_class_C	superfamily	451269	1	381	0	636.164	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#47 - >CMY-25_class_C	specific	395092	32	381	8.55811e-99	296.337	pfam00144	Beta-lactamase	 - 	cl21491
+Q#47 - >CMY-25_class_C	specific	224594	2	377	3.26303e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#47 - >CMY-25_class_C	superfamily	224594	2	377	3.26303e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#47 - >CMY-25_class_C	non-specific	236732	1	363	2.10159e-30	119.752	PRK10662	PRK10662	 - 	cl21491
+Q#47 - >CMY-25_class_C	non-specific	171868	46	277	4.7362e-06	48.3139	PRK13128	PRK13128	C	cl31632
+Q#47 - >CMY-25_class_C	superfamily	171868	46	277	4.7362e-06	48.3139	cl31632	PRK13128 superfamily	C	 - 
+Q#47 - >CMY-25_class_C	non-specific	179620	2	368	3.95211e-05	45.1662	PRK03642	PRK03642	 - 	cl21491
+Q#48 - >CMY-26_class_C	specific	236894	1	381	0	634.623	PRK11289	ampC	 - 	cl21491
+Q#48 - >CMY-26_class_C	superfamily	451269	1	381	0	634.623	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#48 - >CMY-26_class_C	specific	395092	32	381	3.25439e-98	294.796	pfam00144	Beta-lactamase	 - 	cl21491
+Q#48 - >CMY-26_class_C	specific	224594	2	377	3.16036e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#48 - >CMY-26_class_C	superfamily	224594	2	377	3.16036e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#48 - >CMY-26_class_C	non-specific	236732	1	363	4.20887e-32	124.375	PRK10662	PRK10662	 - 	cl21491
+Q#48 - >CMY-26_class_C	non-specific	171868	46	277	1.35504e-08	56.4031	PRK13128	PRK13128	C	cl31632
+Q#48 - >CMY-26_class_C	superfamily	171868	46	277	1.35504e-08	56.4031	cl31632	PRK13128 superfamily	C	 - 
+Q#48 - >CMY-26_class_C	non-specific	179620	2	368	4.25581e-07	51.3294	PRK03642	PRK03642	 - 	cl21491
+Q#49 - >CMY-27_class_C	specific	236894	1	381	0	631.542	PRK11289	ampC	 - 	cl21491
+Q#49 - >CMY-27_class_C	superfamily	451269	1	381	0	631.542	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#49 - >CMY-27_class_C	specific	395092	32	381	6.52045e-98	294.025	pfam00144	Beta-lactamase	 - 	cl21491
+Q#49 - >CMY-27_class_C	specific	224594	2	377	1.71946e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#49 - >CMY-27_class_C	superfamily	224594	2	377	1.71946e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#49 - >CMY-27_class_C	non-specific	236732	1	363	1.88322e-31	122.449	PRK10662	PRK10662	 - 	cl21491
+Q#49 - >CMY-27_class_C	non-specific	171868	46	277	1.64869e-06	49.8547	PRK13128	PRK13128	C	cl31632
+Q#49 - >CMY-27_class_C	superfamily	171868	46	277	1.64869e-06	49.8547	cl31632	PRK13128 superfamily	C	 - 
+Q#49 - >CMY-27_class_C	non-specific	179620	2	368	1.85219e-05	46.3218	PRK03642	PRK03642	 - 	cl21491
+Q#50 - >CMY-28_class_C	specific	236894	1	381	0	635.394	PRK11289	ampC	 - 	cl21491
+Q#50 - >CMY-28_class_C	superfamily	451269	1	381	0	635.394	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#50 - >CMY-28_class_C	specific	395092	32	381	2.95216e-99	297.492	pfam00144	Beta-lactamase	 - 	cl21491
+Q#50 - >CMY-28_class_C	specific	224594	2	377	2.81078e-62	204.844	COG1680	AmpC	 - 	cl43486
+Q#50 - >CMY-28_class_C	superfamily	224594	2	377	2.81078e-62	204.844	cl43486	AmpC superfamily	 - 	 - 
+Q#50 - >CMY-28_class_C	non-specific	236732	1	363	6.98513e-32	123.604	PRK10662	PRK10662	 - 	cl21491
+Q#50 - >CMY-28_class_C	non-specific	171868	46	277	5.68118e-07	51.3955	PRK13128	PRK13128	C	cl31632
+Q#50 - >CMY-28_class_C	superfamily	171868	46	277	5.68118e-07	51.3955	cl31632	PRK13128 superfamily	C	 - 
+Q#50 - >CMY-28_class_C	non-specific	179620	2	368	0.000142874	43.6254	PRK03642	PRK03642	 - 	cl21491
+Q#51 - >CMY-29_class_C	specific	236894	1	381	0	637.32	PRK11289	ampC	 - 	cl21491
+Q#51 - >CMY-29_class_C	superfamily	451269	1	381	0	637.32	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#51 - >CMY-29_class_C	specific	395092	32	381	1.07509e-99	298.648	pfam00144	Beta-lactamase	 - 	cl21491
+Q#51 - >CMY-29_class_C	specific	224594	2	377	3.19422e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#51 - >CMY-29_class_C	superfamily	224594	2	377	3.19422e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#51 - >CMY-29_class_C	non-specific	236732	1	363	1.18251e-31	123.219	PRK10662	PRK10662	 - 	cl21491
+Q#51 - >CMY-29_class_C	non-specific	171868	46	277	1.18003e-06	50.2399	PRK13128	PRK13128	C	cl31632
+Q#51 - >CMY-29_class_C	superfamily	171868	46	277	1.18003e-06	50.2399	cl31632	PRK13128 superfamily	C	 - 
+Q#51 - >CMY-29_class_C	non-specific	179620	2	368	1.03488e-05	47.0922	PRK03642	PRK03642	 - 	cl21491
+Q#52 - >CMY-30_class_C	specific	236894	1	381	0	632.697	PRK11289	ampC	 - 	cl21491
+Q#52 - >CMY-30_class_C	superfamily	451269	1	381	0	632.697	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#52 - >CMY-30_class_C	specific	395092	32	381	2.56282e-98	295.181	pfam00144	Beta-lactamase	 - 	cl21491
+Q#52 - >CMY-30_class_C	specific	224594	2	377	2.24399e-61	202.147	COG1680	AmpC	 - 	cl43486
+Q#52 - >CMY-30_class_C	superfamily	224594	2	377	2.24399e-61	202.147	cl43486	AmpC superfamily	 - 	 - 
+Q#52 - >CMY-30_class_C	non-specific	236732	1	363	2.82176e-31	122.063	PRK10662	PRK10662	 - 	cl21491
+Q#52 - >CMY-30_class_C	non-specific	171868	46	277	8.5948e-07	50.6251	PRK13128	PRK13128	C	cl31632
+Q#52 - >CMY-30_class_C	superfamily	171868	46	277	8.5948e-07	50.6251	cl31632	PRK13128 superfamily	C	 - 
+Q#52 - >CMY-30_class_C	non-specific	179620	2	368	2.47754e-05	45.9366	PRK03642	PRK03642	 - 	cl21491
+Q#53 - >CMY-31_class_C	specific	236894	1	381	0	635.008	PRK11289	ampC	 - 	cl21491
+Q#53 - >CMY-31_class_C	superfamily	451269	1	381	0	635.008	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#53 - >CMY-31_class_C	specific	395092	32	381	1.71484e-98	295.566	pfam00144	Beta-lactamase	 - 	cl21491
+Q#53 - >CMY-31_class_C	specific	224594	2	377	6.25034e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#53 - >CMY-31_class_C	superfamily	224594	2	377	6.25034e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#53 - >CMY-31_class_C	non-specific	236732	1	363	4.22695e-31	121.678	PRK10662	PRK10662	 - 	cl21491
+Q#53 - >CMY-31_class_C	non-specific	171868	46	277	3.54369e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#53 - >CMY-31_class_C	superfamily	171868	46	277	3.54369e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#53 - >CMY-31_class_C	non-specific	179620	2	368	5.14729e-05	44.781	PRK03642	PRK03642	 - 	cl21491
+Q#54 - >CMY-32_class_C	specific	236894	1	381	0	631.927	PRK11289	ampC	 - 	cl21491
+Q#54 - >CMY-32_class_C	superfamily	451269	1	381	0	631.927	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#54 - >CMY-32_class_C	specific	395092	32	381	1.21144e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#54 - >CMY-32_class_C	specific	224594	2	377	2.22022e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#54 - >CMY-32_class_C	superfamily	224594	2	377	2.22022e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#54 - >CMY-32_class_C	non-specific	236732	1	363	1.19454e-31	123.219	PRK10662	PRK10662	 - 	cl21491
+Q#54 - >CMY-32_class_C	non-specific	171868	46	277	5.17125e-06	48.3139	PRK13128	PRK13128	C	cl31632
+Q#54 - >CMY-32_class_C	superfamily	171868	46	277	5.17125e-06	48.3139	cl31632	PRK13128 superfamily	C	 - 
+Q#54 - >CMY-32_class_C	non-specific	179620	2	368	5.10216e-05	45.1662	PRK03642	PRK03642	 - 	cl21491
+Q#55 - >CMY-33_class_C	specific	236894	1	379	0	629.616	PRK11289	ampC	 - 	cl21491
+Q#55 - >CMY-33_class_C	superfamily	451269	1	379	0	629.616	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#55 - >CMY-33_class_C	specific	395092	32	379	2.6992e-99	297.492	pfam00144	Beta-lactamase	 - 	cl21491
+Q#55 - >CMY-33_class_C	specific	224594	2	375	2.33394e-62	204.844	COG1680	AmpC	 - 	cl43486
+Q#55 - >CMY-33_class_C	superfamily	224594	2	375	2.33394e-62	204.844	cl43486	AmpC superfamily	 - 	 - 
+Q#55 - >CMY-33_class_C	non-specific	236732	1	361	2.3589e-31	122.063	PRK10662	PRK10662	 - 	cl21491
+Q#55 - >CMY-33_class_C	non-specific	171868	46	277	2.94236e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#55 - >CMY-33_class_C	superfamily	171868	46	277	2.94236e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#55 - >CMY-33_class_C	non-specific	179620	2	366	2.80154e-05	45.9366	PRK03642	PRK03642	 - 	cl21491
+Q#56 - >CMY-34_class_C	specific	236894	1	381	0	636.934	PRK11289	ampC	 - 	cl21491
+Q#56 - >CMY-34_class_C	superfamily	451269	1	381	0	636.934	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#56 - >CMY-34_class_C	specific	395092	32	381	5.24966e-99	297.107	pfam00144	Beta-lactamase	 - 	cl21491
+Q#56 - >CMY-34_class_C	specific	224594	2	377	2.66492e-62	204.844	COG1680	AmpC	 - 	cl43486
+Q#56 - >CMY-34_class_C	superfamily	224594	2	377	2.66492e-62	204.844	cl43486	AmpC superfamily	 - 	 - 
+Q#56 - >CMY-34_class_C	non-specific	236732	1	363	1.10512e-29	117.826	PRK10662	PRK10662	 - 	cl21491
+Q#56 - >CMY-34_class_C	non-specific	171868	46	277	2.94625e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#56 - >CMY-34_class_C	superfamily	171868	46	277	2.94625e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#56 - >CMY-34_class_C	non-specific	179620	2	368	2.72974e-05	45.9366	PRK03642	PRK03642	 - 	cl21491
+Q#57 - >CMY-35_class_C	specific	236894	1	381	0	632.312	PRK11289	ampC	 - 	cl21491
+Q#57 - >CMY-35_class_C	superfamily	451269	1	381	0	632.312	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#57 - >CMY-35_class_C	specific	395092	32	381	1.71375e-97	293.255	pfam00144	Beta-lactamase	 - 	cl21491
+Q#57 - >CMY-35_class_C	specific	224594	2	377	3.50956e-61	201.762	COG1680	AmpC	 - 	cl43486
+Q#57 - >CMY-35_class_C	superfamily	224594	2	377	3.50956e-61	201.762	cl43486	AmpC superfamily	 - 	 - 
+Q#57 - >CMY-35_class_C	non-specific	236732	1	363	5.60809e-31	121.293	PRK10662	PRK10662	 - 	cl21491
+Q#57 - >CMY-35_class_C	non-specific	171868	46	277	1.12111e-07	53.3215	PRK13128	PRK13128	C	cl31632
+Q#57 - >CMY-35_class_C	superfamily	171868	46	277	1.12111e-07	53.3215	cl31632	PRK13128 superfamily	C	 - 
+Q#57 - >CMY-35_class_C	non-specific	179620	2	368	5.57931e-06	47.8626	PRK03642	PRK03642	 - 	cl21491
+Q#58 - >CMY-36_class_C	specific	236894	1	381	0	636.164	PRK11289	ampC	 - 	cl21491
+Q#58 - >CMY-36_class_C	superfamily	451269	1	381	0	636.164	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#58 - >CMY-36_class_C	specific	395092	32	381	6.88695e-100	299.418	pfam00144	Beta-lactamase	 - 	cl21491
+Q#58 - >CMY-36_class_C	specific	224594	2	377	1.52937e-61	202.918	COG1680	AmpC	 - 	cl43486
+Q#58 - >CMY-36_class_C	superfamily	224594	2	377	1.52937e-61	202.918	cl43486	AmpC superfamily	 - 	 - 
+Q#58 - >CMY-36_class_C	non-specific	236732	1	363	3.38463e-31	121.678	PRK10662	PRK10662	 - 	cl21491
+Q#58 - >CMY-36_class_C	non-specific	171868	46	277	1.71257e-07	52.9363	PRK13128	PRK13128	C	cl31632
+Q#58 - >CMY-36_class_C	superfamily	171868	46	277	1.71257e-07	52.9363	cl31632	PRK13128 superfamily	C	 - 
+Q#58 - >CMY-36_class_C	non-specific	179620	2	368	5.52297e-05	44.781	PRK03642	PRK03642	 - 	cl21491
+Q#59 - >CMY-37_class_C	specific	236894	1	381	0	634.623	PRK11289	ampC	 - 	cl21491
+Q#59 - >CMY-37_class_C	superfamily	451269	1	381	0	634.623	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#59 - >CMY-37_class_C	specific	395092	32	381	8.63875e-97	291.329	pfam00144	Beta-lactamase	 - 	cl21491
+Q#59 - >CMY-37_class_C	specific	224594	2	377	8.97868e-62	203.303	COG1680	AmpC	 - 	cl43486
+Q#59 - >CMY-37_class_C	superfamily	224594	2	377	8.97868e-62	203.303	cl43486	AmpC superfamily	 - 	 - 
+Q#59 - >CMY-37_class_C	non-specific	236732	1	363	1.73545e-30	119.752	PRK10662	PRK10662	 - 	cl21491
+Q#59 - >CMY-37_class_C	non-specific	171868	46	277	1.63865e-07	52.9363	PRK13128	PRK13128	C	cl31632
+Q#59 - >CMY-37_class_C	superfamily	171868	46	277	1.63865e-07	52.9363	cl31632	PRK13128 superfamily	C	 - 
+Q#59 - >CMY-37_class_C	non-specific	179620	2	362	0.000896478	40.929	PRK03642	PRK03642	 - 	cl21491
+Q#60 - >CMY-38_class_C	specific	236894	1	381	0	630.771	PRK11289	ampC	 - 	cl21491
+Q#60 - >CMY-38_class_C	superfamily	451269	1	381	0	630.771	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#60 - >CMY-38_class_C	specific	395092	32	381	1.23804e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#60 - >CMY-38_class_C	specific	224594	2	377	9.46988e-62	203.303	COG1680	AmpC	 - 	cl43486
+Q#60 - >CMY-38_class_C	superfamily	224594	2	377	9.46988e-62	203.303	cl43486	AmpC superfamily	 - 	 - 
+Q#60 - >CMY-38_class_C	non-specific	236732	1	362	9.1952e-31	120.523	PRK10662	PRK10662	 - 	cl21491
+Q#60 - >CMY-38_class_C	non-specific	171868	46	277	2.05429e-06	49.4695	PRK13128	PRK13128	C	cl31632
+Q#60 - >CMY-38_class_C	superfamily	171868	46	277	2.05429e-06	49.4695	cl31632	PRK13128 superfamily	C	 - 
+Q#60 - >CMY-38_class_C	non-specific	179620	2	368	2.87795e-05	45.9366	PRK03642	PRK03642	 - 	cl21491
+Q#61 - >CMY-39_class_C	specific	236894	1	381	0	632.312	PRK11289	ampC	 - 	cl21491
+Q#61 - >CMY-39_class_C	superfamily	451269	1	381	0	632.312	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#61 - >CMY-39_class_C	specific	395092	32	381	4.41076e-98	294.796	pfam00144	Beta-lactamase	 - 	cl21491
+Q#61 - >CMY-39_class_C	specific	224594	2	377	7.33343e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#61 - >CMY-39_class_C	superfamily	224594	2	377	7.33343e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#61 - >CMY-39_class_C	non-specific	236732	1	363	1.00958e-29	117.826	PRK10662	PRK10662	 - 	cl21491
+Q#61 - >CMY-39_class_C	non-specific	171868	46	277	7.73688e-08	54.0919	PRK13128	PRK13128	C	cl31632
+Q#61 - >CMY-39_class_C	superfamily	171868	46	277	7.73688e-08	54.0919	cl31632	PRK13128 superfamily	C	 - 
+Q#61 - >CMY-39_class_C	non-specific	179620	2	368	1.22023e-06	50.1738	PRK03642	PRK03642	 - 	cl21491
+Q#62 - >CMY-40_class_C	specific	236894	1	381	0	631.156	PRK11289	ampC	 - 	cl21491
+Q#62 - >CMY-40_class_C	superfamily	451269	1	381	0	631.156	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#62 - >CMY-40_class_C	specific	395092	32	381	1.15995e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#62 - >CMY-40_class_C	specific	224594	2	377	1.05062e-60	200.607	COG1680	AmpC	 - 	cl43486
+Q#62 - >CMY-40_class_C	superfamily	224594	2	377	1.05062e-60	200.607	cl43486	AmpC superfamily	 - 	 - 
+Q#62 - >CMY-40_class_C	non-specific	236732	1	363	8.54685e-29	115.13	PRK10662	PRK10662	 - 	cl21491
+Q#62 - >CMY-40_class_C	non-specific	171868	46	255	6.97155e-06	47.9287	PRK13128	PRK13128	C	cl31632
+Q#62 - >CMY-40_class_C	superfamily	171868	46	255	6.97155e-06	47.9287	cl31632	PRK13128 superfamily	C	 - 
+Q#62 - >CMY-40_class_C	non-specific	179620	2	368	9.55882e-06	47.0922	PRK03642	PRK03642	 - 	cl21491
+Q#63 - >CMY-41_class_C	specific	236894	1	381	0	635.394	PRK11289	ampC	 - 	cl21491
+Q#63 - >CMY-41_class_C	superfamily	451269	1	381	0	635.394	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#63 - >CMY-41_class_C	specific	395092	32	381	6.11173e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#63 - >CMY-41_class_C	specific	224594	7	377	8.69627e-62	203.303	COG1680	AmpC	 - 	cl43486
+Q#63 - >CMY-41_class_C	superfamily	224594	7	377	8.69627e-62	203.303	cl43486	AmpC superfamily	 - 	 - 
+Q#63 - >CMY-41_class_C	non-specific	236732	1	363	6.17916e-28	112.819	PRK10662	PRK10662	 - 	cl21491
+Q#63 - >CMY-41_class_C	non-specific	179620	2	362	1.23456e-05	47.0922	PRK03642	PRK03642	 - 	cl21491
+Q#63 - >CMY-41_class_C	non-specific	171868	46	255	0.000338697	42.5359	PRK13128	PRK13128	C	cl31632
+Q#63 - >CMY-41_class_C	superfamily	171868	46	255	0.000338697	42.5359	cl31632	PRK13128 superfamily	C	 - 
+Q#64 - >CMY-42_class_C	specific	236894	1	381	0	631.542	PRK11289	ampC	 - 	cl21491
+Q#64 - >CMY-42_class_C	superfamily	451269	1	381	0	631.542	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#64 - >CMY-42_class_C	specific	395092	32	381	2.13082e-98	295.566	pfam00144	Beta-lactamase	 - 	cl21491
+Q#64 - >CMY-42_class_C	specific	224594	2	377	6.25034e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#64 - >CMY-42_class_C	superfamily	224594	2	377	6.25034e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#64 - >CMY-42_class_C	non-specific	236732	1	363	1.09054e-31	123.219	PRK10662	PRK10662	 - 	cl21491
+Q#64 - >CMY-42_class_C	non-specific	171868	46	277	3.90348e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#64 - >CMY-42_class_C	superfamily	171868	46	277	3.90348e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#64 - >CMY-42_class_C	non-specific	179620	2	368	2.9812e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#65 - >CMY-43_class_C	specific	236894	1	381	0	631.156	PRK11289	ampC	 - 	cl21491
+Q#65 - >CMY-43_class_C	superfamily	451269	1	381	0	631.156	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#65 - >CMY-43_class_C	specific	395092	32	381	4.26939e-98	294.796	pfam00144	Beta-lactamase	 - 	cl21491
+Q#65 - >CMY-43_class_C	specific	224594	2	377	2.0173e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#65 - >CMY-43_class_C	superfamily	224594	2	377	2.0173e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#65 - >CMY-43_class_C	non-specific	236732	1	363	2.90862e-31	122.063	PRK10662	PRK10662	 - 	cl21491
+Q#65 - >CMY-43_class_C	non-specific	171868	46	277	1.016e-06	50.6251	PRK13128	PRK13128	C	cl31632
+Q#65 - >CMY-43_class_C	superfamily	171868	46	277	1.016e-06	50.6251	cl31632	PRK13128 superfamily	C	 - 
+Q#65 - >CMY-43_class_C	non-specific	179620	2	368	0.000344168	42.4698	PRK03642	PRK03642	 - 	cl21491
+Q#66 - >CMY-44_class_C	specific	236894	1	377	0	628.845	PRK11289	ampC	 - 	cl21491
+Q#66 - >CMY-44_class_C	superfamily	451269	1	377	0	628.845	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#66 - >CMY-44_class_C	specific	395092	32	377	7.2301e-100	299.033	pfam00144	Beta-lactamase	 - 	cl21491
+Q#66 - >CMY-44_class_C	specific	224594	2	373	6.46007e-63	206.385	COG1680	AmpC	 - 	cl43486
+Q#66 - >CMY-44_class_C	superfamily	224594	2	373	6.46007e-63	206.385	cl43486	AmpC superfamily	 - 	 - 
+Q#66 - >CMY-44_class_C	non-specific	236732	1	359	3.8817e-31	121.678	PRK10662	PRK10662	 - 	cl21491
+Q#66 - >CMY-44_class_C	non-specific	171868	46	277	2.88694e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#66 - >CMY-44_class_C	superfamily	171868	46	277	2.88694e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#66 - >CMY-44_class_C	non-specific	179620	2	364	1.5507e-05	46.707	PRK03642	PRK03642	 - 	cl21491
+Q#67 - >CMY-45_class_C	specific	236894	1	381	0	627.304	PRK11289	ampC	 - 	cl21491
+Q#67 - >CMY-45_class_C	superfamily	451269	1	381	0	627.304	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#67 - >CMY-45_class_C	specific	395092	32	381	1.95385e-99	298.263	pfam00144	Beta-lactamase	 - 	cl21491
+Q#67 - >CMY-45_class_C	specific	224594	2	377	3.29236e-61	201.762	COG1680	AmpC	 - 	cl43486
+Q#67 - >CMY-45_class_C	superfamily	224594	2	377	3.29236e-61	201.762	cl43486	AmpC superfamily	 - 	 - 
+Q#67 - >CMY-45_class_C	non-specific	236732	1	363	1.47733e-31	122.834	PRK10662	PRK10662	 - 	cl21491
+Q#67 - >CMY-45_class_C	non-specific	171868	46	277	9.23402e-06	47.5435	PRK13128	PRK13128	C	cl31632
+Q#67 - >CMY-45_class_C	superfamily	171868	46	277	9.23402e-06	47.5435	cl31632	PRK13128 superfamily	C	 - 
+Q#67 - >CMY-45_class_C	non-specific	179620	2	207	5.6211e-05	44.781	PRK03642	PRK03642	C	cl21491
+Q#68 - >CMY-46_class_C	specific	236894	1	381	0	637.32	PRK11289	ampC	 - 	cl21491
+Q#68 - >CMY-46_class_C	superfamily	451269	1	381	0	637.32	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#68 - >CMY-46_class_C	specific	395092	32	381	6.17589e-98	294.411	pfam00144	Beta-lactamase	 - 	cl21491
+Q#68 - >CMY-46_class_C	specific	224594	2	377	2.68932e-61	202.147	COG1680	AmpC	 - 	cl43486
+Q#68 - >CMY-46_class_C	superfamily	224594	2	377	2.68932e-61	202.147	cl43486	AmpC superfamily	 - 	 - 
+Q#68 - >CMY-46_class_C	non-specific	236732	1	363	3.58358e-30	118.982	PRK10662	PRK10662	 - 	cl21491
+Q#68 - >CMY-46_class_C	non-specific	171868	46	277	7.4026e-08	54.0919	PRK13128	PRK13128	C	cl31632
+Q#68 - >CMY-46_class_C	superfamily	171868	46	277	7.4026e-08	54.0919	cl31632	PRK13128 superfamily	C	 - 
+Q#68 - >CMY-46_class_C	non-specific	179620	2	368	5.3857e-06	47.8626	PRK03642	PRK03642	 - 	cl21491
+Q#69 - >CMY-47_class_C	specific	236894	1	381	0	640.016	PRK11289	ampC	 - 	cl21491
+Q#69 - >CMY-47_class_C	superfamily	451269	1	381	0	640.016	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#69 - >CMY-47_class_C	specific	395092	32	381	2.452e-101	302.885	pfam00144	Beta-lactamase	 - 	cl21491
+Q#69 - >CMY-47_class_C	specific	224594	7	377	3.58448e-64	209.466	COG1680	AmpC	 - 	cl43486
+Q#69 - >CMY-47_class_C	superfamily	224594	7	377	3.58448e-64	209.466	cl43486	AmpC superfamily	 - 	 - 
+Q#69 - >CMY-47_class_C	non-specific	236732	1	363	5.4681e-30	118.597	PRK10662	PRK10662	 - 	cl21491
+Q#69 - >CMY-47_class_C	non-specific	179620	2	362	3.38026e-07	51.7146	PRK03642	PRK03642	 - 	cl21491
+Q#69 - >CMY-47_class_C	non-specific	171868	46	255	2.07064e-05	46.3879	PRK13128	PRK13128	C	cl31632
+Q#69 - >CMY-47_class_C	superfamily	171868	46	255	2.07064e-05	46.3879	cl31632	PRK13128 superfamily	C	 - 
+Q#70 - >CMY-48_class_C	specific	236894	1	381	0	638.475	PRK11289	ampC	 - 	cl21491
+Q#70 - >CMY-48_class_C	superfamily	451269	1	381	0	638.475	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#70 - >CMY-48_class_C	specific	395092	32	381	5.60264e-100	299.418	pfam00144	Beta-lactamase	 - 	cl21491
+Q#70 - >CMY-48_class_C	specific	224594	7	377	1.03202e-62	205.999	COG1680	AmpC	 - 	cl43486
+Q#70 - >CMY-48_class_C	superfamily	224594	7	377	1.03202e-62	205.999	cl43486	AmpC superfamily	 - 	 - 
+Q#70 - >CMY-48_class_C	non-specific	236732	1	363	3.72168e-29	116.285	PRK10662	PRK10662	 - 	cl21491
+Q#70 - >CMY-48_class_C	non-specific	179620	2	362	4.20589e-06	48.2478	PRK03642	PRK03642	 - 	cl21491
+Q#70 - >CMY-48_class_C	non-specific	171868	46	255	3.79257e-05	45.6175	PRK13128	PRK13128	C	cl31632
+Q#70 - >CMY-48_class_C	superfamily	171868	46	255	3.79257e-05	45.6175	cl31632	PRK13128 superfamily	C	 - 
+Q#71 - >CMY-49_class_C	specific	236894	1	381	0	631.927	PRK11289	ampC	 - 	cl21491
+Q#71 - >CMY-49_class_C	superfamily	451269	1	381	0	631.927	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#71 - >CMY-49_class_C	specific	395092	32	381	2.85679e-98	295.181	pfam00144	Beta-lactamase	 - 	cl21491
+Q#71 - >CMY-49_class_C	specific	224594	2	377	1.95387e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#71 - >CMY-49_class_C	superfamily	224594	2	377	1.95387e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#71 - >CMY-49_class_C	non-specific	236732	1	363	1.44753e-30	120.137	PRK10662	PRK10662	 - 	cl21491
+Q#71 - >CMY-49_class_C	non-specific	179620	2	368	1.44325e-07	52.8702	PRK03642	PRK03642	 - 	cl21491
+Q#71 - >CMY-49_class_C	non-specific	171868	46	277	5.0367e-06	48.3139	PRK13128	PRK13128	C	cl31632
+Q#71 - >CMY-49_class_C	superfamily	171868	46	277	5.0367e-06	48.3139	cl31632	PRK13128 superfamily	C	 - 
+Q#72 - >CMY-50_class_C	specific	236894	1	381	0	634.623	PRK11289	ampC	 - 	cl21491
+Q#72 - >CMY-50_class_C	superfamily	451269	1	381	0	634.623	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#72 - >CMY-50_class_C	specific	395092	32	381	1.73245e-97	293.255	pfam00144	Beta-lactamase	 - 	cl21491
+Q#72 - >CMY-50_class_C	specific	224594	2	377	1.73787e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#72 - >CMY-50_class_C	superfamily	224594	2	377	1.73787e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#72 - >CMY-50_class_C	non-specific	236732	1	363	1.29179e-27	112.048	PRK10662	PRK10662	 - 	cl21491
+Q#72 - >CMY-50_class_C	non-specific	179620	2	368	1.39336e-06	49.7886	PRK03642	PRK03642	 - 	cl21491
+Q#72 - >CMY-50_class_C	non-specific	171868	46	255	7.61163e-06	47.5435	PRK13128	PRK13128	C	cl31632
+Q#72 - >CMY-50_class_C	superfamily	171868	46	255	7.61163e-06	47.5435	cl31632	PRK13128 superfamily	C	 - 
+Q#73 - >CMY-51_class_C	specific	236894	1	381	0	636.164	PRK11289	ampC	 - 	cl21491
+Q#73 - >CMY-51_class_C	superfamily	451269	1	381	0	636.164	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#73 - >CMY-51_class_C	specific	395092	32	381	5.13686e-99	297.107	pfam00144	Beta-lactamase	 - 	cl21491
+Q#73 - >CMY-51_class_C	specific	224594	7	377	6.31962e-63	206.385	COG1680	AmpC	 - 	cl43486
+Q#73 - >CMY-51_class_C	superfamily	224594	7	377	6.31962e-63	206.385	cl43486	AmpC superfamily	 - 	 - 
+Q#73 - >CMY-51_class_C	non-specific	236732	1	363	1.21311e-28	114.745	PRK10662	PRK10662	 - 	cl21491
+Q#73 - >CMY-51_class_C	non-specific	179620	2	362	2.68028e-06	49.0182	PRK03642	PRK03642	 - 	cl21491
+Q#73 - >CMY-51_class_C	non-specific	171868	46	255	5.79702e-06	47.9287	PRK13128	PRK13128	C	cl31632
+Q#73 - >CMY-51_class_C	superfamily	171868	46	255	5.79702e-06	47.9287	cl31632	PRK13128 superfamily	C	 - 
+Q#74 - >CMY-53_class_C	specific	236894	1	381	0	635.779	PRK11289	ampC	 - 	cl21491
+Q#74 - >CMY-53_class_C	superfamily	451269	1	381	0	635.779	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#74 - >CMY-53_class_C	specific	395092	32	381	4.13255e-98	294.796	pfam00144	Beta-lactamase	 - 	cl21491
+Q#74 - >CMY-53_class_C	specific	224594	2	377	3.74788e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#74 - >CMY-53_class_C	superfamily	224594	2	377	3.74788e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#74 - >CMY-53_class_C	non-specific	236732	1	363	7.17371e-30	118.211	PRK10662	PRK10662	 - 	cl21491
+Q#74 - >CMY-53_class_C	non-specific	171868	46	255	8.45767e-06	47.5435	PRK13128	PRK13128	C	cl31632
+Q#74 - >CMY-53_class_C	superfamily	171868	46	255	8.45767e-06	47.5435	cl31632	PRK13128 superfamily	C	 - 
+Q#74 - >CMY-53_class_C	non-specific	179620	2	207	0.000127436	43.6254	PRK03642	PRK03642	C	cl21491
+Q#75 - >CMY-54_class_C	specific	236894	1	383	0	631.156	PRK11289	ampC	 - 	cl21491
+Q#75 - >CMY-54_class_C	superfamily	451269	1	383	0	631.156	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#75 - >CMY-54_class_C	specific	395092	32	383	2.20479e-97	292.87	pfam00144	Beta-lactamase	 - 	cl21491
+Q#75 - >CMY-54_class_C	specific	224594	2	379	3.04221e-62	204.844	COG1680	AmpC	 - 	cl43486
+Q#75 - >CMY-54_class_C	superfamily	224594	2	379	3.04221e-62	204.844	cl43486	AmpC superfamily	 - 	 - 
+Q#75 - >CMY-54_class_C	non-specific	236732	1	365	6.96745e-32	123.604	PRK10662	PRK10662	 - 	cl21491
+Q#75 - >CMY-54_class_C	non-specific	171868	46	279	3.05542e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#75 - >CMY-54_class_C	superfamily	171868	46	279	3.05542e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#75 - >CMY-54_class_C	non-specific	179620	2	370	6.35979e-05	44.781	PRK03642	PRK03642	 - 	cl21491
+Q#76 - >CMY-55_class_C	specific	236894	1	381	0	634.238	PRK11289	ampC	 - 	cl21491
+Q#76 - >CMY-55_class_C	superfamily	451269	1	381	0	634.238	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#76 - >CMY-55_class_C	specific	395092	32	381	2.53514e-98	295.181	pfam00144	Beta-lactamase	 - 	cl21491
+Q#76 - >CMY-55_class_C	specific	224594	2	377	1.52937e-61	202.918	COG1680	AmpC	 - 	cl43486
+Q#76 - >CMY-55_class_C	superfamily	224594	2	377	1.52937e-61	202.918	cl43486	AmpC superfamily	 - 	 - 
+Q#76 - >CMY-55_class_C	non-specific	236732	1	363	2.19165e-31	122.449	PRK10662	PRK10662	 - 	cl21491
+Q#76 - >CMY-55_class_C	non-specific	171868	46	277	1.72218e-05	46.7731	PRK13128	PRK13128	C	cl31632
+Q#76 - >CMY-55_class_C	superfamily	171868	46	277	1.72218e-05	46.7731	cl31632	PRK13128 superfamily	C	 - 
+Q#76 - >CMY-55_class_C	non-specific	179620	2	368	3.08815e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#77 - >CMY-56_class_C	specific	236894	1	381	0	635.008	PRK11289	ampC	 - 	cl21491
+Q#77 - >CMY-56_class_C	superfamily	451269	1	381	0	635.008	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#77 - >CMY-56_class_C	specific	395092	32	381	7.76121e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#77 - >CMY-56_class_C	specific	224594	2	377	6.11856e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#77 - >CMY-56_class_C	superfamily	224594	2	377	6.11856e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#77 - >CMY-56_class_C	non-specific	236732	1	363	1.20731e-30	120.137	PRK10662	PRK10662	 - 	cl21491
+Q#77 - >CMY-56_class_C	non-specific	171868	46	277	2.97227e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#77 - >CMY-56_class_C	superfamily	171868	46	277	2.97227e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#77 - >CMY-56_class_C	non-specific	179620	2	368	5.37899e-05	44.781	PRK03642	PRK03642	 - 	cl21491
+Q#78 - >CMY-57_class_C	specific	236894	1	381	0	635.394	PRK11289	ampC	 - 	cl21491
+Q#78 - >CMY-57_class_C	superfamily	451269	1	381	0	635.394	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#78 - >CMY-57_class_C	specific	395092	32	381	8.84153e-99	296.337	pfam00144	Beta-lactamase	 - 	cl21491
+Q#78 - >CMY-57_class_C	specific	224594	2	377	3.26303e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#78 - >CMY-57_class_C	superfamily	224594	2	377	3.26303e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#78 - >CMY-57_class_C	non-specific	236732	1	363	3.35061e-31	121.678	PRK10662	PRK10662	 - 	cl21491
+Q#78 - >CMY-57_class_C	non-specific	171868	46	277	2.38564e-06	49.4695	PRK13128	PRK13128	C	cl31632
+Q#78 - >CMY-57_class_C	superfamily	171868	46	277	2.38564e-06	49.4695	cl31632	PRK13128 superfamily	C	 - 
+Q#78 - >CMY-57_class_C	non-specific	179620	2	368	7.85428e-05	44.3958	PRK03642	PRK03642	 - 	cl21491
+Q#79 - >CMY-58_class_C	specific	236894	1	381	0	632.312	PRK11289	ampC	 - 	cl21491
+Q#79 - >CMY-58_class_C	superfamily	451269	1	381	0	632.312	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#79 - >CMY-58_class_C	specific	395092	32	381	3.32584e-98	294.796	pfam00144	Beta-lactamase	 - 	cl21491
+Q#79 - >CMY-58_class_C	specific	224594	2	377	7.79857e-61	200.992	COG1680	AmpC	 - 	cl43486
+Q#79 - >CMY-58_class_C	superfamily	224594	2	377	7.79857e-61	200.992	cl43486	AmpC superfamily	 - 	 - 
+Q#79 - >CMY-58_class_C	non-specific	236732	1	363	1.03007e-29	117.826	PRK10662	PRK10662	 - 	cl21491
+Q#79 - >CMY-58_class_C	non-specific	171868	46	229	5.45121e-06	48.3139	PRK13128	PRK13128	C	cl31632
+Q#79 - >CMY-58_class_C	superfamily	171868	46	229	5.45121e-06	48.3139	cl31632	PRK13128 superfamily	C	 - 
+Q#79 - >CMY-58_class_C	non-specific	179620	2	207	6.58639e-05	44.781	PRK03642	PRK03642	C	cl21491
+Q#80 - >CMY-59_class_C	specific	236894	1	381	0	631.156	PRK11289	ampC	 - 	cl21491
+Q#80 - >CMY-59_class_C	superfamily	451269	1	381	0	631.156	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#80 - >CMY-59_class_C	specific	395092	32	381	4.26939e-98	294.796	pfam00144	Beta-lactamase	 - 	cl21491
+Q#80 - >CMY-59_class_C	specific	224594	2	377	2.0173e-61	202.533	COG1680	AmpC	 - 	cl43486
+Q#80 - >CMY-59_class_C	superfamily	224594	2	377	2.0173e-61	202.533	cl43486	AmpC superfamily	 - 	 - 
+Q#80 - >CMY-59_class_C	non-specific	236732	1	363	2.90862e-31	122.063	PRK10662	PRK10662	 - 	cl21491
+Q#80 - >CMY-59_class_C	non-specific	171868	46	277	1.016e-06	50.6251	PRK13128	PRK13128	C	cl31632
+Q#80 - >CMY-59_class_C	superfamily	171868	46	277	1.016e-06	50.6251	cl31632	PRK13128 superfamily	C	 - 
+Q#80 - >CMY-59_class_C	non-specific	179620	2	368	0.000344168	42.4698	PRK03642	PRK03642	 - 	cl21491
+Q#81 - >CMY-60_class_C	specific	236894	1	381	0	635.008	PRK11289	ampC	 - 	cl21491
+Q#81 - >CMY-60_class_C	superfamily	451269	1	381	0	635.008	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#81 - >CMY-60_class_C	specific	395092	32	381	4.0014e-99	297.107	pfam00144	Beta-lactamase	 - 	cl21491
+Q#81 - >CMY-60_class_C	specific	224594	2	377	4.35085e-62	204.073	COG1680	AmpC	 - 	cl43486
+Q#81 - >CMY-60_class_C	superfamily	224594	2	377	4.35085e-62	204.073	cl43486	AmpC superfamily	 - 	 - 
+Q#81 - >CMY-60_class_C	non-specific	236732	1	363	4.81995e-31	121.293	PRK10662	PRK10662	 - 	cl21491
+Q#81 - >CMY-60_class_C	non-specific	171868	46	277	4.7362e-06	48.3139	PRK13128	PRK13128	C	cl31632
+Q#81 - >CMY-60_class_C	superfamily	171868	46	277	4.7362e-06	48.3139	cl31632	PRK13128 superfamily	C	 - 
+Q#81 - >CMY-60_class_C	non-specific	179620	2	368	0.000129697	43.6254	PRK03642	PRK03642	 - 	cl21491
+Q#82 - >CMY-61_class_C	specific	236894	1	380	0	626.149	PRK11289	ampC	 - 	cl21491
+Q#82 - >CMY-61_class_C	superfamily	451269	1	380	0	626.149	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#82 - >CMY-61_class_C	specific	395092	31	380	3.54286e-97	292.099	pfam00144	Beta-lactamase	 - 	cl21491
+Q#82 - >CMY-61_class_C	specific	224594	6	376	4.77644e-60	198.681	COG1680	AmpC	 - 	cl43486
+Q#82 - >CMY-61_class_C	superfamily	224594	6	376	4.77644e-60	198.681	cl43486	AmpC superfamily	 - 	 - 
+Q#82 - >CMY-61_class_C	non-specific	236732	2	362	9.56688e-29	115.13	PRK10662	PRK10662	 - 	cl21491
+Q#82 - >CMY-61_class_C	non-specific	171868	45	276	5.81934e-06	47.9287	PRK13128	PRK13128	C	cl31632
+Q#82 - >CMY-61_class_C	superfamily	171868	45	276	5.81934e-06	47.9287	cl31632	PRK13128 superfamily	C	 - 
+Q#82 - >CMY-61_class_C	non-specific	179620	6	367	0.000449975	42.0846	PRK03642	PRK03642	 - 	cl21491
+Q#83 - >CMY-62_class_C	specific	236894	1	381	0	631.927	PRK11289	ampC	 - 	cl21491
+Q#83 - >CMY-62_class_C	superfamily	451269	1	381	0	631.927	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#83 - >CMY-62_class_C	specific	395092	32	381	6.73635e-98	294.025	pfam00144	Beta-lactamase	 - 	cl21491
+Q#83 - >CMY-62_class_C	specific	224594	2	377	2.71811e-61	202.147	COG1680	AmpC	 - 	cl43486
+Q#83 - >CMY-62_class_C	superfamily	224594	2	377	2.71811e-61	202.147	cl43486	AmpC superfamily	 - 	 - 
+Q#83 - >CMY-62_class_C	non-specific	236732	1	363	1.63362e-30	120.137	PRK10662	PRK10662	 - 	cl21491
+Q#83 - >CMY-62_class_C	non-specific	171868	46	277	7.53119e-07	51.0103	PRK13128	PRK13128	C	cl31632
+Q#83 - >CMY-62_class_C	superfamily	171868	46	277	7.53119e-07	51.0103	cl31632	PRK13128 superfamily	C	 - 
+Q#83 - >CMY-62_class_C	non-specific	179620	2	368	0.000392656	42.0846	PRK03642	PRK03642	 - 	cl21491
+Q#84 - >CMY-63_class_C	specific	236894	1	381	0	636.934	PRK11289	ampC	 - 	cl21491
+Q#84 - >CMY-63_class_C	superfamily	451269	1	381	0	636.934	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#84 - >CMY-63_class_C	specific	395092	32	381	8.01444e-98	294.025	pfam00144	Beta-lactamase	 - 	cl21491
+Q#84 - >CMY-63_class_C	specific	224594	2	377	1.24566e-60	200.221	COG1680	AmpC	 - 	cl43486
+Q#84 - >CMY-63_class_C	superfamily	224594	2	377	1.24566e-60	200.221	cl43486	AmpC superfamily	 - 	 - 
+Q#84 - >CMY-63_class_C	non-specific	236732	1	363	4.36902e-29	115.9	PRK10662	PRK10662	 - 	cl21491
+Q#84 - >CMY-63_class_C	non-specific	171868	46	277	6.42681e-08	54.0919	PRK13128	PRK13128	C	cl31632
+Q#84 - >CMY-63_class_C	superfamily	171868	46	277	6.42681e-08	54.0919	cl31632	PRK13128 superfamily	C	 - 
+Q#84 - >CMY-63_class_C	non-specific	179620	2	368	4.88719e-06	48.2478	PRK03642	PRK03642	 - 	cl21491
+Q#85 - >CMY-64_class_C	specific	236894	1	381	0	635.394	PRK11289	ampC	 - 	cl21491
+Q#85 - >CMY-64_class_C	superfamily	451269	1	381	0	635.394	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#85 - >CMY-64_class_C	specific	395092	32	381	1.1344e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#85 - >CMY-64_class_C	specific	224594	2	377	8.49174e-61	200.992	COG1680	AmpC	 - 	cl43486
+Q#85 - >CMY-64_class_C	superfamily	224594	2	377	8.49174e-61	200.992	cl43486	AmpC superfamily	 - 	 - 
+Q#85 - >CMY-64_class_C	non-specific	236732	1	363	5.17295e-31	121.293	PRK10662	PRK10662	 - 	cl21491
+Q#85 - >CMY-64_class_C	non-specific	171868	46	277	1.58181e-07	52.9363	PRK13128	PRK13128	C	cl31632
+Q#85 - >CMY-64_class_C	superfamily	171868	46	277	1.58181e-07	52.9363	cl31632	PRK13128 superfamily	C	 - 
+Q#85 - >CMY-64_class_C	non-specific	179620	2	368	5.17132e-07	51.3294	PRK03642	PRK03642	 - 	cl21491
+Q#86 - >CMY-65_class_C	specific	236894	1	381	0	639.246	PRK11289	ampC	 - 	cl21491
+Q#86 - >CMY-65_class_C	superfamily	451269	1	381	0	639.246	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#86 - >CMY-65_class_C	specific	395092	32	381	1.82855e-101	303.27	pfam00144	Beta-lactamase	 - 	cl21491
+Q#86 - >CMY-65_class_C	specific	224594	7	377	4.43737e-64	209.466	COG1680	AmpC	 - 	cl43486
+Q#86 - >CMY-65_class_C	superfamily	224594	7	377	4.43737e-64	209.466	cl43486	AmpC superfamily	 - 	 - 
+Q#86 - >CMY-65_class_C	non-specific	236732	1	363	6.82202e-30	118.211	PRK10662	PRK10662	 - 	cl21491
+Q#86 - >CMY-65_class_C	non-specific	179620	2	362	5.502e-07	51.3294	PRK03642	PRK03642	 - 	cl21491
+Q#86 - >CMY-65_class_C	non-specific	171868	46	255	2.03462e-05	46.3879	PRK13128	PRK13128	C	cl31632
+Q#86 - >CMY-65_class_C	superfamily	171868	46	255	2.03462e-05	46.3879	cl31632	PRK13128 superfamily	C	 - 
+Q#87 - >CMY-66_class_C	specific	236894	1	381	0	634.238	PRK11289	ampC	 - 	cl21491
+Q#87 - >CMY-66_class_C	superfamily	451269	1	381	0	634.238	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#87 - >CMY-66_class_C	specific	395092	32	381	4.8619e-101	302.115	pfam00144	Beta-lactamase	 - 	cl21491
+Q#87 - >CMY-66_class_C	specific	224594	7	377	1.02107e-62	205.999	COG1680	AmpC	 - 	cl43486
+Q#87 - >CMY-66_class_C	superfamily	224594	7	377	1.02107e-62	205.999	cl43486	AmpC superfamily	 - 	 - 
+Q#87 - >CMY-66_class_C	non-specific	236732	1	363	4.59351e-29	115.9	PRK10662	PRK10662	 - 	cl21491
+Q#87 - >CMY-66_class_C	non-specific	179620	2	362	1.19794e-07	53.2554	PRK03642	PRK03642	 - 	cl21491
+Q#87 - >CMY-66_class_C	non-specific	171868	46	255	1.60541e-05	46.7731	PRK13128	PRK13128	C	cl31632
+Q#87 - >CMY-66_class_C	superfamily	171868	46	255	1.60541e-05	46.7731	cl31632	PRK13128 superfamily	C	 - 
+Q#88 - >CMY-67_class_C	specific	236894	1	381	0	635.779	PRK11289	ampC	 - 	cl21491
+Q#88 - >CMY-67_class_C	superfamily	451269	1	381	0	635.779	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#88 - >CMY-67_class_C	specific	395092	32	381	4.97034e-98	294.411	pfam00144	Beta-lactamase	 - 	cl21491
+Q#88 - >CMY-67_class_C	specific	224594	7	377	1.95638e-62	205.229	COG1680	AmpC	 - 	cl43486
+Q#88 - >CMY-67_class_C	superfamily	224594	7	377	1.95638e-62	205.229	cl43486	AmpC superfamily	 - 	 - 
+Q#88 - >CMY-67_class_C	non-specific	236732	1	363	1.73876e-28	114.359	PRK10662	PRK10662	 - 	cl21491
+Q#88 - >CMY-67_class_C	non-specific	179620	2	362	7.20711e-06	47.4774	PRK03642	PRK03642	 - 	cl21491
+Q#88 - >CMY-67_class_C	non-specific	171868	46	255	7.88381e-06	47.5435	PRK13128	PRK13128	C	cl31632
+Q#88 - >CMY-67_class_C	superfamily	171868	46	255	7.88381e-06	47.5435	cl31632	PRK13128 superfamily	C	 - 
+Q#89 - >CMY-68_class_C	specific	236894	1	381	0	636.934	PRK11289	ampC	 - 	cl21491
+Q#89 - >CMY-68_class_C	superfamily	451269	1	381	0	636.934	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#89 - >CMY-68_class_C	specific	395092	32	381	6.10797e-101	302.115	pfam00144	Beta-lactamase	 - 	cl21491
+Q#89 - >CMY-68_class_C	specific	224594	7	377	1.17173e-63	208.311	COG1680	AmpC	 - 	cl43486
+Q#89 - >CMY-68_class_C	superfamily	224594	7	377	1.17173e-63	208.311	cl43486	AmpC superfamily	 - 	 - 
+Q#89 - >CMY-68_class_C	non-specific	236732	1	363	7.28191e-29	115.515	PRK10662	PRK10662	 - 	cl21491
+Q#89 - >CMY-68_class_C	non-specific	179620	2	368	9.76782e-08	53.6406	PRK03642	PRK03642	 - 	cl21491
+Q#89 - >CMY-68_class_C	non-specific	171868	46	255	2.53357e-05	46.0027	PRK13128	PRK13128	C	cl31632
+Q#89 - >CMY-68_class_C	superfamily	171868	46	255	2.53357e-05	46.0027	cl31632	PRK13128 superfamily	C	 - 
+Q#90 - >CMY-69_class_C	specific	236894	1	381	0	634.623	PRK11289	ampC	 - 	cl21491
+Q#90 - >CMY-69_class_C	superfamily	451269	1	381	0	634.623	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#90 - >CMY-69_class_C	specific	395092	32	381	6.52325e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#90 - >CMY-69_class_C	specific	224594	2	377	6.80643e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#90 - >CMY-69_class_C	superfamily	224594	2	377	6.80643e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#90 - >CMY-69_class_C	non-specific	236732	1	363	5.72247e-31	121.293	PRK10662	PRK10662	 - 	cl21491
+Q#90 - >CMY-69_class_C	non-specific	171868	46	277	3.18887e-06	49.0843	PRK13128	PRK13128	C	cl31632
+Q#90 - >CMY-69_class_C	superfamily	171868	46	277	3.18887e-06	49.0843	cl31632	PRK13128 superfamily	C	 - 
+Q#90 - >CMY-69_class_C	non-specific	179620	2	368	5.10216e-05	45.1662	PRK03642	PRK03642	 - 	cl21491
+Q#91 - >CMY-70_class_C	specific	236894	1	381	0	643.483	PRK11289	ampC	 - 	cl21491
+Q#91 - >CMY-70_class_C	superfamily	451269	1	381	0	643.483	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#91 - >CMY-70_class_C	specific	395092	32	381	1.26523e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#91 - >CMY-70_class_C	specific	224594	7	377	4.78875e-62	204.073	COG1680	AmpC	 - 	cl43486
+Q#91 - >CMY-70_class_C	superfamily	224594	7	377	4.78875e-62	204.073	cl43486	AmpC superfamily	 - 	 - 
+Q#91 - >CMY-70_class_C	non-specific	236732	1	363	1.80755e-29	117.056	PRK10662	PRK10662	 - 	cl21491
+Q#91 - >CMY-70_class_C	non-specific	171868	46	354	7.53119e-07	51.0103	PRK13128	PRK13128	C	cl31632
+Q#91 - >CMY-70_class_C	superfamily	171868	46	354	7.53119e-07	51.0103	cl31632	PRK13128 superfamily	C	 - 
+Q#91 - >CMY-70_class_C	non-specific	179620	2	207	0.000293813	42.4698	PRK03642	PRK03642	C	cl21491
+Q#92 - >CMY-71_class_C	specific	236894	1	381	0	631.927	PRK11289	ampC	 - 	cl21491
+Q#92 - >CMY-71_class_C	superfamily	451269	1	381	0	631.927	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#92 - >CMY-71_class_C	specific	395092	32	381	1.25085e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#92 - >CMY-71_class_C	specific	224594	2	377	1.0395e-60	200.607	COG1680	AmpC	 - 	cl43486
+Q#92 - >CMY-71_class_C	superfamily	224594	2	377	1.0395e-60	200.607	cl43486	AmpC superfamily	 - 	 - 
+Q#92 - >CMY-71_class_C	non-specific	236732	1	363	1.96033e-28	114.359	PRK10662	PRK10662	 - 	cl21491
+Q#92 - >CMY-71_class_C	non-specific	171868	30	277	4.97392e-08	54.4771	PRK13128	PRK13128	C	cl31632
+Q#92 - >CMY-71_class_C	superfamily	171868	30	277	4.97392e-08	54.4771	cl31632	PRK13128 superfamily	C	 - 
+Q#92 - >CMY-71_class_C	non-specific	179620	2	368	3.95372e-06	48.633	PRK03642	PRK03642	 - 	cl21491
+Q#93 - >CMY-72_class_C	specific	236894	1	381	0	638.86	PRK11289	ampC	 - 	cl21491
+Q#93 - >CMY-72_class_C	superfamily	451269	1	381	0	638.86	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#93 - >CMY-72_class_C	specific	395092	32	381	3.1847e-100	300.189	pfam00144	Beta-lactamase	 - 	cl21491
+Q#93 - >CMY-72_class_C	specific	224594	7	377	1.17173e-63	208.311	COG1680	AmpC	 - 	cl43486
+Q#93 - >CMY-72_class_C	superfamily	224594	7	377	1.17173e-63	208.311	cl43486	AmpC superfamily	 - 	 - 
+Q#93 - >CMY-72_class_C	non-specific	236732	1	363	5.04534e-30	118.597	PRK10662	PRK10662	 - 	cl21491
+Q#93 - >CMY-72_class_C	non-specific	179620	2	362	1.03144e-06	50.1738	PRK03642	PRK03642	 - 	cl21491
+Q#93 - >CMY-72_class_C	non-specific	171868	46	255	3.62989e-05	45.6175	PRK13128	PRK13128	C	cl31632
+Q#93 - >CMY-72_class_C	superfamily	171868	46	255	3.62989e-05	45.6175	cl31632	PRK13128 superfamily	C	 - 
+Q#94 - >CMY-73_class_C	specific	236894	1	381	0	631.542	PRK11289	ampC	 - 	cl21491
+Q#94 - >CMY-73_class_C	superfamily	451269	1	381	0	631.542	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#94 - >CMY-73_class_C	specific	395092	32	381	4.55293e-97	292.099	pfam00144	Beta-lactamase	 - 	cl21491
+Q#94 - >CMY-73_class_C	specific	224594	2	377	7.16196e-61	200.992	COG1680	AmpC	 - 	cl43486
+Q#94 - >CMY-73_class_C	superfamily	224594	2	377	7.16196e-61	200.992	cl43486	AmpC superfamily	 - 	 - 
+Q#94 - >CMY-73_class_C	non-specific	236732	1	363	7.77443e-30	118.211	PRK10662	PRK10662	 - 	cl21491
+Q#94 - >CMY-73_class_C	non-specific	179620	2	368	1.26343e-07	53.2554	PRK03642	PRK03642	 - 	cl21491
+Q#94 - >CMY-73_class_C	non-specific	171868	46	277	1.46103e-07	52.9363	PRK13128	PRK13128	C	cl31632
+Q#94 - >CMY-73_class_C	superfamily	171868	46	277	1.46103e-07	52.9363	cl31632	PRK13128 superfamily	C	 - 
+Q#95 - >CMY-74_class_C	specific	236894	1	381	0	644.253	PRK11289	ampC	 - 	cl21491
+Q#95 - >CMY-74_class_C	superfamily	451269	1	381	0	644.253	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#95 - >CMY-74_class_C	specific	395092	32	381	5.66432e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#95 - >CMY-74_class_C	specific	224594	7	377	2.54988e-61	202.147	COG1680	AmpC	 - 	cl43486
+Q#95 - >CMY-74_class_C	superfamily	224594	7	377	2.54988e-61	202.147	cl43486	AmpC superfamily	 - 	 - 
+Q#95 - >CMY-74_class_C	non-specific	236732	1	363	7.13754e-29	115.515	PRK10662	PRK10662	 - 	cl21491
+Q#95 - >CMY-74_class_C	non-specific	171868	46	354	1.44481e-06	49.8547	PRK13128	PRK13128	C	cl31632
+Q#95 - >CMY-74_class_C	superfamily	171868	46	354	1.44481e-06	49.8547	cl31632	PRK13128 superfamily	C	 - 
+Q#95 - >CMY-74_class_C	non-specific	179620	2	207	0.00115634	40.5438	PRK03642	PRK03642	C	cl21491
+Q#96 - >CMY-75_class_C	specific	236894	1	381	0	638.86	PRK11289	ampC	 - 	cl21491
+Q#96 - >CMY-75_class_C	superfamily	451269	1	381	0	638.86	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#96 - >CMY-75_class_C	specific	395092	32	381	1.23657e-101	303.655	pfam00144	Beta-lactamase	 - 	cl21491
+Q#96 - >CMY-75_class_C	specific	224594	7	377	1.13482e-63	208.311	COG1680	AmpC	 - 	cl43486
+Q#96 - >CMY-75_class_C	superfamily	224594	7	377	1.13482e-63	208.311	cl43486	AmpC superfamily	 - 	 - 
+Q#96 - >CMY-75_class_C	non-specific	236732	1	363	5.4681e-30	118.597	PRK10662	PRK10662	 - 	cl21491
+Q#96 - >CMY-75_class_C	non-specific	179620	2	368	3.06634e-07	52.0998	PRK03642	PRK03642	 - 	cl21491
+Q#96 - >CMY-75_class_C	non-specific	171868	46	255	1.93028e-05	46.3879	PRK13128	PRK13128	C	cl31632
+Q#96 - >CMY-75_class_C	superfamily	171868	46	255	1.93028e-05	46.3879	cl31632	PRK13128 superfamily	C	 - 
+Q#97 - >CMY-76_class_C	specific	236894	1	381	0	632.312	PRK11289	ampC	 - 	cl21491
+Q#97 - >CMY-76_class_C	superfamily	451269	1	381	0	632.312	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#97 - >CMY-76_class_C	specific	395092	32	381	1.07446e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#97 - >CMY-76_class_C	specific	224594	7	377	4.98701e-61	201.377	COG1680	AmpC	 - 	cl43486
+Q#97 - >CMY-76_class_C	superfamily	224594	7	377	4.98701e-61	201.377	cl43486	AmpC superfamily	 - 	 - 
+Q#97 - >CMY-76_class_C	non-specific	236732	1	363	5.7625e-28	112.819	PRK10662	PRK10662	 - 	cl21491
+Q#97 - >CMY-76_class_C	non-specific	179620	2	368	4.71338e-05	45.1662	PRK03642	PRK03642	 - 	cl21491
+Q#97 - >CMY-76_class_C	non-specific	171868	46	255	8.41983e-05	44.4619	PRK13128	PRK13128	C	cl31632
+Q#97 - >CMY-76_class_C	superfamily	171868	46	255	8.41983e-05	44.4619	cl31632	PRK13128 superfamily	C	 - 
+Q#98 - >CMY-77_class_C	specific	236894	1	381	0	632.312	PRK11289	ampC	 - 	cl21491
+Q#98 - >CMY-77_class_C	superfamily	451269	1	381	0	632.312	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#98 - >CMY-77_class_C	specific	395092	32	381	7.59094e-98	294.025	pfam00144	Beta-lactamase	 - 	cl21491
+Q#98 - >CMY-77_class_C	specific	224594	2	377	1.28974e-61	202.918	COG1680	AmpC	 - 	cl43486
+Q#98 - >CMY-77_class_C	superfamily	224594	2	377	1.28974e-61	202.918	cl43486	AmpC superfamily	 - 	 - 
+Q#98 - >CMY-77_class_C	non-specific	236732	1	363	2.84291e-30	119.367	PRK10662	PRK10662	 - 	cl21491
+Q#98 - >CMY-77_class_C	non-specific	171868	46	277	8.15797e-08	54.0919	PRK13128	PRK13128	C	cl31632
+Q#98 - >CMY-77_class_C	superfamily	171868	46	277	8.15797e-08	54.0919	cl31632	PRK13128 superfamily	C	 - 
+Q#98 - >CMY-77_class_C	non-specific	179620	2	368	1.24201e-06	50.1738	PRK03642	PRK03642	 - 	cl21491
+Q#99 - >CMY-78_class_C	specific	236894	1	381	0	634.238	PRK11289	ampC	 - 	cl21491
+Q#99 - >CMY-78_class_C	superfamily	451269	1	381	0	634.238	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#99 - >CMY-78_class_C	specific	395092	32	381	8.37418e-100	299.033	pfam00144	Beta-lactamase	 - 	cl21491
+Q#99 - >CMY-78_class_C	specific	224594	7	377	3.5531e-63	207.155	COG1680	AmpC	 - 	cl43486
+Q#99 - >CMY-78_class_C	superfamily	224594	7	377	3.5531e-63	207.155	cl43486	AmpC superfamily	 - 	 - 
+Q#99 - >CMY-78_class_C	non-specific	236732	1	363	1.91942e-30	119.752	PRK10662	PRK10662	 - 	cl21491
+Q#99 - >CMY-78_class_C	non-specific	179620	2	362	3.28428e-06	48.633	PRK03642	PRK03642	 - 	cl21491
+Q#99 - >CMY-78_class_C	non-specific	171868	46	255	1.28911e-05	47.1583	PRK13128	PRK13128	C	cl31632
+Q#99 - >CMY-78_class_C	superfamily	171868	46	255	1.28911e-05	47.1583	cl31632	PRK13128 superfamily	C	 - 
+Q#100 - >CMY-79_class_C	specific	236894	1	381	0	638.475	PRK11289	ampC	 - 	cl21491
+Q#100 - >CMY-79_class_C	superfamily	451269	1	381	0	638.475	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#100 - >CMY-79_class_C	specific	395092	32	381	4.31685e-100	299.803	pfam00144	Beta-lactamase	 - 	cl21491
+Q#100 - >CMY-79_class_C	specific	224594	7	377	3.70815e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#100 - >CMY-79_class_C	superfamily	224594	7	377	3.70815e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#100 - >CMY-79_class_C	non-specific	236732	1	363	4.41303e-29	115.9	PRK10662	PRK10662	 - 	cl21491
+Q#100 - >CMY-79_class_C	non-specific	179620	2	368	1.25305e-06	50.1738	PRK03642	PRK03642	 - 	cl21491
+Q#100 - >CMY-79_class_C	non-specific	171868	46	255	4.03263e-05	45.6175	PRK13128	PRK13128	C	cl31632
+Q#100 - >CMY-79_class_C	superfamily	171868	46	255	4.03263e-05	45.6175	cl31632	PRK13128 superfamily	C	 - 
+Q#101 - >CMY-80_class_C	specific	236894	1	381	0	636.164	PRK11289	ampC	 - 	cl21491
+Q#101 - >CMY-80_class_C	superfamily	451269	1	381	0	636.164	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#101 - >CMY-80_class_C	specific	395092	32	381	1.53837e-98	295.951	pfam00144	Beta-lactamase	 - 	cl21491
+Q#101 - >CMY-80_class_C	specific	224594	2	377	5.14886e-61	201.377	COG1680	AmpC	 - 	cl43486
+Q#101 - >CMY-80_class_C	superfamily	224594	2	377	5.14886e-61	201.377	cl43486	AmpC superfamily	 - 	 - 
+Q#101 - >CMY-80_class_C	non-specific	236732	1	363	4.05958e-31	121.678	PRK10662	PRK10662	 - 	cl21491
+Q#101 - >CMY-80_class_C	non-specific	171868	46	277	1.31419e-07	53.3215	PRK13128	PRK13128	C	cl31632
+Q#101 - >CMY-80_class_C	superfamily	171868	46	277	1.31419e-07	53.3215	cl31632	PRK13128 superfamily	C	 - 
+Q#101 - >CMY-80_class_C	non-specific	179620	2	368	6.39571e-07	50.9442	PRK03642	PRK03642	 - 	cl21491
+Q#102 - >CMY-81_class_C	specific	236894	1	381	0	634.623	PRK11289	ampC	 - 	cl21491
+Q#102 - >CMY-81_class_C	superfamily	451269	1	381	0	634.623	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#102 - >CMY-81_class_C	specific	395092	32	381	4.17844e-100	299.803	pfam00144	Beta-lactamase	 - 	cl21491
+Q#102 - >CMY-81_class_C	specific	224594	7	377	3.94586e-64	209.466	COG1680	AmpC	 - 	cl43486
+Q#102 - >CMY-81_class_C	superfamily	224594	7	377	3.94586e-64	209.466	cl43486	AmpC superfamily	 - 	 - 
+Q#102 - >CMY-81_class_C	non-specific	236732	1	363	2.56808e-29	116.671	PRK10662	PRK10662	 - 	cl21491
+Q#102 - >CMY-81_class_C	non-specific	179620	2	362	1.03938e-07	53.2554	PRK03642	PRK03642	 - 	cl21491
+Q#102 - >CMY-81_class_C	non-specific	171868	46	255	3.72664e-05	45.6175	PRK13128	PRK13128	C	cl31632
+Q#102 - >CMY-81_class_C	superfamily	171868	46	255	3.72664e-05	45.6175	cl31632	PRK13128 superfamily	C	 - 
+Q#103 - >CMY-83_class_C	specific	236894	1	381	0	641.942	PRK11289	ampC	 - 	cl21491
+Q#103 - >CMY-83_class_C	superfamily	451269	1	381	0	641.942	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#103 - >CMY-83_class_C	specific	395092	32	381	9.8558e-99	296.337	pfam00144	Beta-lactamase	 - 	cl21491
+Q#103 - >CMY-83_class_C	specific	224594	7	377	8.40183e-61	200.992	COG1680	AmpC	 - 	cl43486
+Q#103 - >CMY-83_class_C	superfamily	224594	7	377	8.40183e-61	200.992	cl43486	AmpC superfamily	 - 	 - 
+Q#103 - >CMY-83_class_C	non-specific	236732	1	363	1.17377e-29	117.441	PRK10662	PRK10662	 - 	cl21491
+Q#103 - >CMY-83_class_C	non-specific	171868	46	277	3.54369e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#103 - >CMY-83_class_C	superfamily	171868	46	277	3.54369e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#103 - >CMY-83_class_C	non-specific	179620	2	207	0.000335214	42.4698	PRK03642	PRK03642	C	cl21491
+Q#104 - >CMY-84_class_C	specific	236894	1	381	0	635.394	PRK11289	ampC	 - 	cl21491
+Q#104 - >CMY-84_class_C	superfamily	451269	1	381	0	635.394	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#104 - >CMY-84_class_C	specific	395092	32	381	3.70847e-99	297.492	pfam00144	Beta-lactamase	 - 	cl21491
+Q#104 - >CMY-84_class_C	specific	224594	7	377	3.62996e-62	204.459	COG1680	AmpC	 - 	cl43486
+Q#104 - >CMY-84_class_C	superfamily	224594	7	377	3.62996e-62	204.459	cl43486	AmpC superfamily	 - 	 - 
+Q#104 - >CMY-84_class_C	non-specific	236732	1	363	2.83902e-29	116.671	PRK10662	PRK10662	 - 	cl21491
+Q#104 - >CMY-84_class_C	non-specific	179620	2	207	3.43261e-06	48.633	PRK03642	PRK03642	C	cl21491
+Q#104 - >CMY-84_class_C	non-specific	171868	46	255	0.000117451	44.0767	PRK13128	PRK13128	C	cl31632
+Q#104 - >CMY-84_class_C	superfamily	171868	46	255	0.000117451	44.0767	cl31632	PRK13128 superfamily	C	 - 
+Q#105 - >CMY-87_class_C	specific	236894	1	381	0	636.549	PRK11289	ampC	 - 	cl21491
+Q#105 - >CMY-87_class_C	superfamily	451269	1	381	0	636.549	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#105 - >CMY-87_class_C	specific	395092	32	381	6.73929e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#105 - >CMY-87_class_C	specific	224594	2	377	7.03068e-63	206.385	COG1680	AmpC	 - 	cl43486
+Q#105 - >CMY-87_class_C	superfamily	224594	2	377	7.03068e-63	206.385	cl43486	AmpC superfamily	 - 	 - 
+Q#105 - >CMY-87_class_C	non-specific	236732	1	363	8.37746e-29	115.13	PRK10662	PRK10662	 - 	cl21491
+Q#105 - >CMY-87_class_C	non-specific	179620	2	362	1.01335e-06	50.1738	PRK03642	PRK03642	 - 	cl21491
+Q#105 - >CMY-87_class_C	non-specific	171868	46	255	6.00437e-06	47.9287	PRK13128	PRK13128	C	cl31632
+Q#105 - >CMY-87_class_C	superfamily	171868	46	255	6.00437e-06	47.9287	cl31632	PRK13128 superfamily	C	 - 
+Q#106 - >CMY-94_class_C	specific	236894	1	381	0	633.082	PRK11289	ampC	 - 	cl21491
+Q#106 - >CMY-94_class_C	superfamily	451269	1	381	0	633.082	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#106 - >CMY-94_class_C	specific	395092	32	381	6.31414e-99	296.722	pfam00144	Beta-lactamase	 - 	cl21491
+Q#106 - >CMY-94_class_C	specific	224594	2	377	6.45334e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#106 - >CMY-94_class_C	superfamily	224594	2	377	6.45334e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#106 - >CMY-94_class_C	non-specific	236732	1	363	3.85965e-31	121.678	PRK10662	PRK10662	 - 	cl21491
+Q#106 - >CMY-94_class_C	non-specific	171868	46	277	3.80189e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#106 - >CMY-94_class_C	superfamily	171868	46	277	3.80189e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#106 - >CMY-94_class_C	non-specific	179620	2	368	4.79714e-05	45.1662	PRK03642	PRK03642	 - 	cl21491
+Q#107 - >CMY-95_class_C	specific	236894	1	381	0	628.845	PRK11289	ampC	 - 	cl21491
+Q#107 - >CMY-95_class_C	superfamily	451269	1	381	0	628.845	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#107 - >CMY-95_class_C	specific	395092	32	381	1.09864e-98	296.337	pfam00144	Beta-lactamase	 - 	cl21491
+Q#107 - >CMY-95_class_C	specific	224594	2	377	9.6738e-62	203.303	COG1680	AmpC	 - 	cl43486
+Q#107 - >CMY-95_class_C	superfamily	224594	2	377	9.6738e-62	203.303	cl43486	AmpC superfamily	 - 	 - 
+Q#107 - >CMY-95_class_C	non-specific	236732	1	363	1.32174e-31	122.834	PRK10662	PRK10662	 - 	cl21491
+Q#107 - >CMY-95_class_C	non-specific	171868	46	277	4.11488e-06	48.6991	PRK13128	PRK13128	C	cl31632
+Q#107 - >CMY-95_class_C	superfamily	171868	46	277	4.11488e-06	48.6991	cl31632	PRK13128 superfamily	C	 - 
+Q#107 - >CMY-95_class_C	non-specific	179620	2	368	5.8226e-05	44.781	PRK03642	PRK03642	 - 	cl21491
+Q#108 - >CMY-104_class_C	specific	236894	1	381	0	635.008	PRK11289	ampC	 - 	cl21491
+Q#108 - >CMY-104_class_C	superfamily	451269	1	381	0	635.008	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#108 - >CMY-104_class_C	specific	395092	32	381	2.45389e-98	295.181	pfam00144	Beta-lactamase	 - 	cl21491
+Q#108 - >CMY-104_class_C	specific	224594	2	377	6.66293e-62	203.688	COG1680	AmpC	 - 	cl43486
+Q#108 - >CMY-104_class_C	superfamily	224594	2	377	6.66293e-62	203.688	cl43486	AmpC superfamily	 - 	 - 
+Q#108 - >CMY-104_class_C	non-specific	236732	1	363	5.48216e-28	112.819	PRK10662	PRK10662	 - 	cl21491
+Q#108 - >CMY-104_class_C	non-specific	171868	46	277	6.38523e-06	47.9287	PRK13128	PRK13128	C	cl31632
+Q#108 - >CMY-104_class_C	superfamily	171868	46	277	6.38523e-06	47.9287	cl31632	PRK13128 superfamily	C	 - 
+Q#108 - >CMY-104_class_C	non-specific	179620	2	207	3.08815e-05	45.5514	PRK03642	PRK03642	C	cl21491
+Q#109 - >DHA-1_class_C	specific	236894	1	379	0	572.606	PRK11289	ampC	 - 	cl21491
+Q#109 - >DHA-1_class_C	superfamily	451269	1	379	0	572.606	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#109 - >DHA-1_class_C	specific	395092	31	379	2.95017e-90	274.38	pfam00144	Beta-lactamase	 - 	cl21491
+Q#109 - >DHA-1_class_C	specific	224594	1	377	6.0687e-55	185.584	COG1680	AmpC	 - 	cl43486
+Q#109 - >DHA-1_class_C	superfamily	224594	1	377	6.0687e-55	185.584	cl43486	AmpC superfamily	 - 	 - 
+Q#109 - >DHA-1_class_C	non-specific	236732	1	360	1.28588e-34	130.923	PRK10662	PRK10662	 - 	cl21491
+Q#109 - >DHA-1_class_C	non-specific	171868	45	252	6.29813e-08	54.0919	PRK13128	PRK13128	C	cl31632
+Q#109 - >DHA-1_class_C	superfamily	171868	45	252	6.29813e-08	54.0919	cl31632	PRK13128 superfamily	C	 - 
+Q#109 - >DHA-1_class_C	non-specific	179620	8	206	0.000413963	42.0846	PRK03642	PRK03642	C	cl21491
+Q#110 - >DHA-2_class_C	specific	236894	1	379	0	572.221	PRK11289	ampC	 - 	cl21491
+Q#110 - >DHA-2_class_C	superfamily	451269	1	379	0	572.221	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#110 - >DHA-2_class_C	specific	395092	31	379	1.42707e-90	275.536	pfam00144	Beta-lactamase	 - 	cl21491
+Q#110 - >DHA-2_class_C	specific	224594	1	377	1.76735e-54	184.428	COG1680	AmpC	 - 	cl43486
+Q#110 - >DHA-2_class_C	superfamily	224594	1	377	1.76735e-54	184.428	cl43486	AmpC superfamily	 - 	 - 
+Q#110 - >DHA-2_class_C	non-specific	236732	1	360	4.2476e-34	129.767	PRK10662	PRK10662	 - 	cl21491
+Q#110 - >DHA-2_class_C	non-specific	171868	45	252	1.3872e-08	56.4031	PRK13128	PRK13128	C	cl31632
+Q#110 - >DHA-2_class_C	superfamily	171868	45	252	1.3872e-08	56.4031	cl31632	PRK13128 superfamily	C	 - 
+Q#110 - >DHA-2_class_C	non-specific	179620	8	206	0.000779198	41.3142	PRK03642	PRK03642	C	cl21491
+Q#111 - >DHA-3_class_C	specific	236894	1	379	0	570.295	PRK11289	ampC	 - 	cl21491
+Q#111 - >DHA-3_class_C	superfamily	451269	1	379	0	570.295	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#111 - >DHA-3_class_C	specific	395092	31	379	2.14379e-89	272.454	pfam00144	Beta-lactamase	 - 	cl21491
+Q#111 - >DHA-3_class_C	specific	224594	1	377	5.1231e-55	185.584	COG1680	AmpC	 - 	cl43486
+Q#111 - >DHA-3_class_C	superfamily	224594	1	377	5.1231e-55	185.584	cl43486	AmpC superfamily	 - 	 - 
+Q#111 - >DHA-3_class_C	non-specific	236732	1	360	1.87797e-35	133.234	PRK10662	PRK10662	 - 	cl21491
+Q#111 - >DHA-3_class_C	non-specific	171868	45	261	1.73096e-08	56.0179	PRK13128	PRK13128	C	cl31632
+Q#111 - >DHA-3_class_C	superfamily	171868	45	261	1.73096e-08	56.0179	cl31632	PRK13128 superfamily	C	 - 
+Q#111 - >DHA-3_class_C	non-specific	179620	8	206	0.000410341	42.0846	PRK03642	PRK03642	C	cl21491
+Q#112 - >DHA-5_class_C	specific	236894	1	379	0	572.221	PRK11289	ampC	 - 	cl21491
+Q#112 - >DHA-5_class_C	superfamily	451269	1	379	0	572.221	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#112 - >DHA-5_class_C	specific	395092	31	379	3.08089e-90	274.38	pfam00144	Beta-lactamase	 - 	cl21491
+Q#112 - >DHA-5_class_C	specific	224594	1	377	1.5899e-54	184.428	COG1680	AmpC	 - 	cl43486
+Q#112 - >DHA-5_class_C	superfamily	224594	1	377	1.5899e-54	184.428	cl43486	AmpC superfamily	 - 	 - 
+Q#112 - >DHA-5_class_C	non-specific	236732	1	360	5.26262e-34	129.382	PRK10662	PRK10662	 - 	cl21491
+Q#112 - >DHA-5_class_C	non-specific	171868	45	252	3.02309e-08	55.2475	PRK13128	PRK13128	C	cl31632
+Q#112 - >DHA-5_class_C	superfamily	171868	45	252	3.02309e-08	55.2475	cl31632	PRK13128 superfamily	C	 - 
+Q#112 - >DHA-5_class_C	non-specific	179620	8	206	0.000262096	42.855	PRK03642	PRK03642	C	cl21491
+Q#113 - >DHA-6_class_C	specific	236894	1	379	0	575.688	PRK11289	ampC	 - 	cl21491
+Q#113 - >DHA-6_class_C	superfamily	451269	1	379	0	575.688	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#113 - >DHA-6_class_C	specific	395092	31	379	9.69975e-92	278.232	pfam00144	Beta-lactamase	 - 	cl21491
+Q#113 - >DHA-6_class_C	specific	224594	1	377	6.22466e-56	187.895	COG1680	AmpC	 - 	cl43486
+Q#113 - >DHA-6_class_C	superfamily	224594	1	377	6.22466e-56	187.895	cl43486	AmpC superfamily	 - 	 - 
+Q#113 - >DHA-6_class_C	non-specific	236732	1	360	7.46467e-36	134.39	PRK10662	PRK10662	 - 	cl21491
+Q#113 - >DHA-6_class_C	non-specific	171868	45	252	5.76532e-08	54.4771	PRK13128	PRK13128	C	cl31632
+Q#113 - >DHA-6_class_C	superfamily	171868	45	252	5.76532e-08	54.4771	cl31632	PRK13128 superfamily	C	 - 
+Q#113 - >DHA-6_class_C	non-specific	179620	8	206	0.000436374	42.0846	PRK03642	PRK03642	C	cl21491
+Q#114 - >DHA-7_class_C	specific	236894	1	379	0	567.599	PRK11289	ampC	 - 	cl21491
+Q#114 - >DHA-7_class_C	superfamily	451269	1	379	0	567.599	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#114 - >DHA-7_class_C	specific	395092	31	379	3.89057e-89	271.684	pfam00144	Beta-lactamase	 - 	cl21491
+Q#114 - >DHA-7_class_C	specific	224594	1	377	1.60682e-54	184.428	COG1680	AmpC	 - 	cl43486
+Q#114 - >DHA-7_class_C	superfamily	224594	1	377	1.60682e-54	184.428	cl43486	AmpC superfamily	 - 	 - 
+Q#114 - >DHA-7_class_C	non-specific	236732	1	360	6.12672e-33	126.686	PRK10662	PRK10662	 - 	cl21491
+Q#114 - >DHA-7_class_C	non-specific	171868	45	252	6.46736e-08	54.0919	PRK13128	PRK13128	C	cl31632
+Q#114 - >DHA-7_class_C	superfamily	171868	45	252	6.46736e-08	54.0919	cl31632	PRK13128 superfamily	C	 - 
+Q#114 - >DHA-7_class_C	non-specific	179620	8	206	0.000413963	42.0846	PRK03642	PRK03642	C	cl21491
+Q#115 - >FOX-1_class_C	specific	236894	26	381	0	600.726	PRK11289	ampC	 - 	cl21491
+Q#115 - >FOX-1_class_C	superfamily	451269	26	381	0	600.726	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#115 - >FOX-1_class_C	specific	395092	33	381	4.93301e-87	266.291	pfam00144	Beta-lactamase	 - 	cl21491
+Q#115 - >FOX-1_class_C	specific	224594	27	379	3.98287e-53	180.962	COG1680	AmpC	 - 	cl43486
+Q#115 - >FOX-1_class_C	superfamily	224594	27	379	3.98287e-53	180.962	cl43486	AmpC superfamily	 - 	 - 
+Q#115 - >FOX-1_class_C	non-specific	236732	1	362	7.67103e-17	81.2323	PRK10662	PRK10662	 - 	cl21491
+Q#115 - >FOX-1_class_C	non-specific	171868	27	228	2.00058e-07	52.5511	PRK13128	PRK13128	C	cl31632
+Q#115 - >FOX-1_class_C	superfamily	171868	27	228	2.00058e-07	52.5511	cl31632	PRK13128 superfamily	C	 - 
+Q#115 - >FOX-1_class_C	non-specific	179620	32	208	6.66015e-07	50.9442	PRK03642	PRK03642	C	cl21491
+Q#116 - >FOX-2_class_C	specific	236894	23	381	0	609.97	PRK11289	ampC	 - 	cl21491
+Q#116 - >FOX-2_class_C	superfamily	451269	23	381	0	609.97	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#116 - >FOX-2_class_C	specific	395092	33	381	2.02999e-87	267.447	pfam00144	Beta-lactamase	 - 	cl21491
+Q#116 - >FOX-2_class_C	specific	224594	27	379	7.74392e-54	182.502	COG1680	AmpC	 - 	cl43486
+Q#116 - >FOX-2_class_C	superfamily	224594	27	379	7.74392e-54	182.502	cl43486	AmpC superfamily	 - 	 - 
+Q#116 - >FOX-2_class_C	non-specific	236732	29	362	4.61441e-15	75.8395	PRK10662	PRK10662	 - 	cl21491
+Q#116 - >FOX-2_class_C	non-specific	171868	27	228	1.91426e-07	52.9363	PRK13128	PRK13128	C	cl31632
+Q#116 - >FOX-2_class_C	superfamily	171868	27	228	1.91426e-07	52.9363	cl31632	PRK13128 superfamily	C	 - 
+Q#116 - >FOX-2_class_C	non-specific	179620	32	208	1.43799e-06	49.7886	PRK03642	PRK03642	C	cl21491
+Q#117 - >FOX-3_class_C	specific	236894	23	381	0	598.8	PRK11289	ampC	 - 	cl21491
+Q#117 - >FOX-3_class_C	superfamily	451269	23	381	0	598.8	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#117 - >FOX-3_class_C	specific	395092	33	381	1.1766e-85	262.824	pfam00144	Beta-lactamase	 - 	cl21491
+Q#117 - >FOX-3_class_C	specific	224594	27	379	5.18628e-53	180.576	COG1680	AmpC	 - 	cl43486
+Q#117 - >FOX-3_class_C	superfamily	224594	27	379	5.18628e-53	180.576	cl43486	AmpC superfamily	 - 	 - 
+Q#117 - >FOX-3_class_C	non-specific	236732	1	362	2.44662e-14	73.5283	PRK10662	PRK10662	 - 	cl21491
+Q#117 - >FOX-3_class_C	non-specific	179620	33	208	5.48155e-07	51.3294	PRK03642	PRK03642	C	cl21491
+Q#118 - >FOX-4_class_C	specific	236894	23	381	0	605.348	PRK11289	ampC	 - 	cl21491
+Q#118 - >FOX-4_class_C	superfamily	451269	23	381	0	605.348	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#118 - >FOX-4_class_C	specific	395092	33	381	2.4403e-87	267.061	pfam00144	Beta-lactamase	 - 	cl21491
+Q#118 - >FOX-4_class_C	specific	224594	27	379	2.13569e-53	181.347	COG1680	AmpC	 - 	cl43486
+Q#118 - >FOX-4_class_C	superfamily	224594	27	379	2.13569e-53	181.347	cl43486	AmpC superfamily	 - 	 - 
+Q#118 - >FOX-4_class_C	non-specific	236732	29	362	2.37199e-16	79.6915	PRK10662	PRK10662	 - 	cl21491
+Q#118 - >FOX-4_class_C	non-specific	179620	33	208	6.41368e-08	54.0258	PRK03642	PRK03642	C	cl21491
+Q#118 - >FOX-4_class_C	non-specific	171868	31	228	5.27588e-07	51.3955	PRK13128	PRK13128	C	cl31632
+Q#118 - >FOX-4_class_C	superfamily	171868	31	228	5.27588e-07	51.3955	cl31632	PRK13128 superfamily	C	 - 
+Q#119 - >FOX-5_class_C	specific	236894	23	381	0	601.111	PRK11289	ampC	 - 	cl21491
+Q#119 - >FOX-5_class_C	superfamily	451269	23	381	0	601.111	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#119 - >FOX-5_class_C	non-specific	236894	23	381	0	601.111	PRK11289	ampC	 - 	cl21491
+Q#119 - >FOX-5_class_C	specific	395092	33	381	2.98429e-85	262.054	pfam00144	Beta-lactamase	 - 	cl21491
+Q#119 - >FOX-5_class_C	non-specific	395092	33	381	2.98429e-85	262.054	pfam00144	Beta-lactamase	 - 	cl21491
+Q#119 - >FOX-5_class_C	specific	224594	27	379	6.74966e-54	182.888	COG1680	AmpC	 - 	cl43486
+Q#119 - >FOX-5_class_C	superfamily	224594	27	379	6.74966e-54	182.888	cl43486	AmpC superfamily	 - 	 - 
+Q#119 - >FOX-5_class_C	non-specific	224594	27	379	6.74966e-54	182.888	COG1680	AmpC	 - 	cl43486
+Q#119 - >FOX-5_class_C	non-specific	236732	1	362	4.01728e-15	75.8395	PRK10662	PRK10662	 - 	cl21491
+Q#119 - >FOX-5_class_C	non-specific	236732	1	362	4.01728e-15	75.8395	PRK10662	PRK10662	 - 	cl21491
+Q#119 - >FOX-5_class_C	non-specific	179620	32	208	6.3008e-08	54.0258	PRK03642	PRK03642	C	cl21491
+Q#119 - >FOX-5_class_C	non-specific	179620	32	208	6.3008e-08	54.0258	PRK03642	PRK03642	C	cl21491
+Q#119 - >FOX-5_class_C	non-specific	171868	27	228	2.14685e-07	52.5511	PRK13128	PRK13128	C	cl31632
+Q#119 - >FOX-5_class_C	superfamily	171868	27	228	2.14685e-07	52.5511	cl31632	PRK13128 superfamily	C	 - 
+Q#119 - >FOX-5_class_C	non-specific	171868	27	228	2.14685e-07	52.5511	PRK13128	PRK13128	C	cl31632
+Q#120 - >FOX-6_class_C	specific	236894	23	381	0	601.111	PRK11289	ampC	 - 	cl21491
+Q#120 - >FOX-6_class_C	superfamily	451269	23	381	0	601.111	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#120 - >FOX-6_class_C	non-specific	236894	23	381	0	601.111	PRK11289	ampC	 - 	cl21491
+Q#120 - >FOX-6_class_C	specific	395092	33	381	2.98429e-85	262.054	pfam00144	Beta-lactamase	 - 	cl21491
+Q#120 - >FOX-6_class_C	non-specific	395092	33	381	2.98429e-85	262.054	pfam00144	Beta-lactamase	 - 	cl21491
+Q#120 - >FOX-6_class_C	specific	224594	27	379	6.74966e-54	182.888	COG1680	AmpC	 - 	cl43486
+Q#120 - >FOX-6_class_C	superfamily	224594	27	379	6.74966e-54	182.888	cl43486	AmpC superfamily	 - 	 - 
+Q#120 - >FOX-6_class_C	non-specific	224594	27	379	6.74966e-54	182.888	COG1680	AmpC	 - 	cl43486
+Q#120 - >FOX-6_class_C	non-specific	236732	1	362	4.01728e-15	75.8395	PRK10662	PRK10662	 - 	cl21491
+Q#120 - >FOX-6_class_C	non-specific	236732	1	362	4.01728e-15	75.8395	PRK10662	PRK10662	 - 	cl21491
+Q#120 - >FOX-6_class_C	non-specific	179620	32	208	6.3008e-08	54.0258	PRK03642	PRK03642	C	cl21491
+Q#120 - >FOX-6_class_C	non-specific	179620	32	208	6.3008e-08	54.0258	PRK03642	PRK03642	C	cl21491
+Q#120 - >FOX-6_class_C	non-specific	171868	27	228	2.14685e-07	52.5511	PRK13128	PRK13128	C	cl31632
+Q#120 - >FOX-6_class_C	superfamily	171868	27	228	2.14685e-07	52.5511	cl31632	PRK13128 superfamily	C	 - 
+Q#120 - >FOX-6_class_C	non-specific	171868	27	228	2.14685e-07	52.5511	PRK13128	PRK13128	C	cl31632
+Q#121 - >FOX-7_class_C	specific	236894	26	381	0	600.726	PRK11289	ampC	 - 	cl21491
+Q#121 - >FOX-7_class_C	superfamily	451269	26	381	0	600.726	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#121 - >FOX-7_class_C	specific	395092	33	381	7.12836e-87	265.906	pfam00144	Beta-lactamase	 - 	cl21491
+Q#121 - >FOX-7_class_C	specific	224594	27	379	2.09103e-53	181.732	COG1680	AmpC	 - 	cl43486
+Q#121 - >FOX-7_class_C	superfamily	224594	27	379	2.09103e-53	181.732	cl43486	AmpC superfamily	 - 	 - 
+Q#121 - >FOX-7_class_C	non-specific	236732	1	362	3.0093e-17	82.3879	PRK10662	PRK10662	 - 	cl21491
+Q#121 - >FOX-7_class_C	non-specific	171868	27	228	2.58365e-07	52.1659	PRK13128	PRK13128	C	cl31632
+Q#121 - >FOX-7_class_C	superfamily	171868	27	228	2.58365e-07	52.1659	cl31632	PRK13128 superfamily	C	 - 
+Q#121 - >FOX-7_class_C	non-specific	179620	32	208	6.90017e-07	50.9442	PRK03642	PRK03642	C	cl21491
+Q#122 - >FOX-8_class_C	specific	236894	23	381	0	599.57	PRK11289	ampC	 - 	cl21491
+Q#122 - >FOX-8_class_C	superfamily	451269	23	381	0	599.57	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#122 - >FOX-8_class_C	specific	395092	33	381	1.55897e-85	262.439	pfam00144	Beta-lactamase	 - 	cl21491
+Q#122 - >FOX-8_class_C	specific	224594	27	379	5.70335e-53	180.576	COG1680	AmpC	 - 	cl43486
+Q#122 - >FOX-8_class_C	superfamily	224594	27	379	5.70335e-53	180.576	cl43486	AmpC superfamily	 - 	 - 
+Q#122 - >FOX-8_class_C	non-specific	236732	1	362	2.53828e-14	73.5283	PRK10662	PRK10662	 - 	cl21491
+Q#122 - >FOX-8_class_C	non-specific	179620	33	208	5.48155e-07	51.3294	PRK03642	PRK03642	C	cl21491
+Q#123 - >FOX-9_class_C	specific	236894	23	381	0	592.636	PRK11289	ampC	 - 	cl21491
+Q#123 - >FOX-9_class_C	superfamily	451269	23	381	0	592.636	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#123 - >FOX-9_class_C	specific	395092	33	381	1.71334e-86	265.135	pfam00144	Beta-lactamase	 - 	cl21491
+Q#123 - >FOX-9_class_C	specific	224594	27	379	1.47549e-53	182.117	COG1680	AmpC	 - 	cl43486
+Q#123 - >FOX-9_class_C	superfamily	224594	27	379	1.47549e-53	182.117	cl43486	AmpC superfamily	 - 	 - 
+Q#123 - >FOX-9_class_C	non-specific	236732	1	362	5.80155e-14	72.3727	PRK10662	PRK10662	 - 	cl21491
+Q#123 - >FOX-9_class_C	non-specific	171868	44	224	9.6171e-08	53.7067	PRK13128	PRK13128	C	cl31632
+Q#123 - >FOX-9_class_C	superfamily	171868	44	224	9.6171e-08	53.7067	cl31632	PRK13128 superfamily	C	 - 
+Q#123 - >FOX-9_class_C	non-specific	179620	33	208	1.89141e-06	49.4034	PRK03642	PRK03642	C	cl21491
+Q#124 - >FOX-10_class_C	specific	236894	23	381	0	597.644	PRK11289	ampC	 - 	cl21491
+Q#124 - >FOX-10_class_C	superfamily	451269	23	381	0	597.644	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#124 - >FOX-10_class_C	specific	395092	33	381	8.43324e-85	260.898	pfam00144	Beta-lactamase	 - 	cl21491
+Q#124 - >FOX-10_class_C	specific	224594	27	379	2.20446e-53	181.347	COG1680	AmpC	 - 	cl43486
+Q#124 - >FOX-10_class_C	superfamily	224594	27	379	2.20446e-53	181.347	cl43486	AmpC superfamily	 - 	 - 
+Q#124 - >FOX-10_class_C	non-specific	236732	1	362	7.32092e-15	75.0691	PRK10662	PRK10662	 - 	cl21491
+Q#124 - >FOX-10_class_C	non-specific	179620	32	208	4.45634e-08	54.411	PRK03642	PRK03642	C	cl21491
+Q#124 - >FOX-10_class_C	non-specific	171868	27	228	1.11744e-07	53.3215	PRK13128	PRK13128	C	cl31632
+Q#124 - >FOX-10_class_C	superfamily	171868	27	228	1.11744e-07	53.3215	cl31632	PRK13128 superfamily	C	 - 
+Q#125 - >LAT-1_class_C	specific	236894	1	381	0	629.616	PRK11289	ampC	 - 	cl21491
+Q#125 - >LAT-1_class_C	superfamily	451269	1	381	0	629.616	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#125 - >LAT-1_class_C	specific	395092	32	381	2.13082e-98	295.566	pfam00144	Beta-lactamase	 - 	cl21491
+Q#125 - >LAT-1_class_C	specific	224594	2	377	1.17184e-61	202.918	COG1680	AmpC	 - 	cl43486
+Q#125 - >LAT-1_class_C	superfamily	224594	2	377	1.17184e-61	202.918	cl43486	AmpC superfamily	 - 	 - 
+Q#125 - >LAT-1_class_C	non-specific	236732	1	363	2.5505e-31	122.063	PRK10662	PRK10662	 - 	cl21491
+Q#125 - >LAT-1_class_C	non-specific	171868	46	277	3.82124e-07	51.7807	PRK13128	PRK13128	C	cl31632
+Q#125 - >LAT-1_class_C	superfamily	171868	46	277	3.82124e-07	51.7807	cl31632	PRK13128 superfamily	C	 - 
+Q#125 - >LAT-1_class_C	non-specific	179620	2	368	3.14305e-05	45.5514	PRK03642	PRK03642	 - 	cl21491
+Q#126 - >MIR-1_class_C	specific	236894	1	381	0	627.304	PRK11289	ampC	 - 	cl21491
+Q#126 - >MIR-1_class_C	superfamily	451269	1	381	0	627.304	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#126 - >MIR-1_class_C	specific	395092	32	381	1.05138e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#126 - >MIR-1_class_C	specific	224594	2	379	1.08389e-58	195.214	COG1680	AmpC	 - 	cl43486
+Q#126 - >MIR-1_class_C	superfamily	224594	2	379	1.08389e-58	195.214	cl43486	AmpC superfamily	 - 	 - 
+Q#126 - >MIR-1_class_C	non-specific	236732	2	363	7.26211e-25	104.344	PRK10662	PRK10662	 - 	cl21491
+Q#126 - >MIR-1_class_C	non-specific	171868	23	253	3.74886e-09	57.9439	PRK13128	PRK13128	C	cl31632
+Q#126 - >MIR-1_class_C	superfamily	171868	23	253	3.74886e-09	57.9439	cl31632	PRK13128 superfamily	C	 - 
+Q#126 - >MIR-1_class_C	non-specific	179620	2	210	6.3693e-06	47.8626	PRK03642	PRK03642	C	cl21491
+Q#127 - >MIR-2_class_C	specific	236894	1	381	0	628.46	PRK11289	ampC	 - 	cl21491
+Q#127 - >MIR-2_class_C	superfamily	451269	1	381	0	628.46	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#127 - >MIR-2_class_C	specific	395092	32	381	1.21076e-97	293.64	pfam00144	Beta-lactamase	 - 	cl21491
+Q#127 - >MIR-2_class_C	specific	224594	2	379	2.29684e-59	197.14	COG1680	AmpC	 - 	cl43486
+Q#127 - >MIR-2_class_C	superfamily	224594	2	379	2.29684e-59	197.14	cl43486	AmpC superfamily	 - 	 - 
+Q#127 - >MIR-2_class_C	non-specific	236732	8	363	5.10902e-24	101.648	PRK10662	PRK10662	 - 	cl21491
+Q#127 - >MIR-2_class_C	non-specific	171868	23	253	1.90986e-09	59.0995	PRK13128	PRK13128	C	cl31632
+Q#127 - >MIR-2_class_C	superfamily	171868	23	253	1.90986e-09	59.0995	cl31632	PRK13128 superfamily	C	 - 
+Q#127 - >MIR-2_class_C	non-specific	179620	72	210	2.18992e-05	46.3218	PRK03642	PRK03642	NC	cl21491
+Q#128 - >MIR-3_class_C	specific	236894	1	381	0	629.616	PRK11289	ampC	 - 	cl21491
+Q#128 - >MIR-3_class_C	superfamily	451269	1	381	0	629.616	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#128 - >MIR-3_class_C	specific	395092	32	381	5.02023e-97	292.099	pfam00144	Beta-lactamase	 - 	cl21491
+Q#128 - >MIR-3_class_C	specific	224594	2	379	6.23778e-59	195.984	COG1680	AmpC	 - 	cl43486
+Q#128 - >MIR-3_class_C	superfamily	224594	2	379	6.23778e-59	195.984	cl43486	AmpC superfamily	 - 	 - 
+Q#128 - >MIR-3_class_C	non-specific	236732	2	363	4.99846e-25	104.729	PRK10662	PRK10662	 - 	cl21491
+Q#128 - >MIR-3_class_C	non-specific	171868	23	253	3.00319e-09	58.3291	PRK13128	PRK13128	C	cl31632
+Q#128 - >MIR-3_class_C	superfamily	171868	23	253	3.00319e-09	58.3291	cl31632	PRK13128 superfamily	C	 - 
+Q#128 - >MIR-3_class_C	non-specific	179620	2	210	1.47272e-05	46.707	PRK03642	PRK03642	C	cl21491
+Q#129 - >MIR-4_class_C	specific	236894	1	367	0	609.2	PRK11289	ampC	 - 	cl21491
+Q#129 - >MIR-4_class_C	superfamily	451269	1	367	0	609.2	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#129 - >MIR-4_class_C	specific	395092	27	367	3.44158e-95	286.707	pfam00144	Beta-lactamase	 - 	cl21491
+Q#129 - >MIR-4_class_C	specific	224594	1	367	6.87302e-57	190.206	COG1680	AmpC	 - 	cl43486
+Q#129 - >MIR-4_class_C	superfamily	224594	1	367	6.87302e-57	190.206	cl43486	AmpC superfamily	 - 	 - 
+Q#129 - >MIR-4_class_C	non-specific	236732	4	358	4.48608e-24	101.648	PRK10662	PRK10662	 - 	cl21491
+Q#129 - >MIR-4_class_C	non-specific	171868	18	248	1.04774e-09	59.8699	PRK13128	PRK13128	C	cl31632
+Q#129 - >MIR-4_class_C	superfamily	171868	18	248	1.04774e-09	59.8699	cl31632	PRK13128 superfamily	C	 - 
+Q#129 - >MIR-4_class_C	non-specific	179620	67	205	1.16315e-05	47.0922	PRK03642	PRK03642	NC	cl21491
+Q#130 - >MIR-6_class_C	specific	236894	1	381	0	623.452	PRK11289	ampC	 - 	cl21491
+Q#130 - >MIR-6_class_C	superfamily	451269	1	381	0	623.452	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#130 - >MIR-6_class_C	specific	395092	32	381	2.15003e-96	290.173	pfam00144	Beta-lactamase	 - 	cl21491
+Q#130 - >MIR-6_class_C	specific	224594	2	379	5.1645e-58	193.673	COG1680	AmpC	 - 	cl43486
+Q#130 - >MIR-6_class_C	superfamily	224594	2	379	5.1645e-58	193.673	cl43486	AmpC superfamily	 - 	 - 
+Q#130 - >MIR-6_class_C	non-specific	236732	2	363	4.0819e-23	99.3367	PRK10662	PRK10662	 - 	cl21491
+Q#130 - >MIR-6_class_C	non-specific	171868	23	253	3.9877e-08	54.8623	PRK13128	PRK13128	C	cl31632
+Q#130 - >MIR-6_class_C	superfamily	171868	23	253	3.9877e-08	54.8623	cl31632	PRK13128 superfamily	C	 - 
+Q#130 - >MIR-6_class_C	non-specific	179620	72	210	3.78182e-05	45.5514	PRK03642	PRK03642	NC	cl21491
+Q#131 - >MIR-8_class_C	specific	236894	1	381	0	630.001	PRK11289	ampC	 - 	cl21491
+Q#131 - >MIR-8_class_C	superfamily	451269	1	381	0	630.001	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#131 - >MIR-8_class_C	specific	395092	32	381	2.50776e-98	295.181	pfam00144	Beta-lactamase	 - 	cl21491
+Q#131 - >MIR-8_class_C	specific	224594	2	379	8.31053e-59	195.599	COG1680	AmpC	 - 	cl43486
+Q#131 - >MIR-8_class_C	superfamily	224594	2	379	8.31053e-59	195.599	cl43486	AmpC superfamily	 - 	 - 
+Q#131 - >MIR-8_class_C	non-specific	236732	2	363	1.21013e-24	103.574	PRK10662	PRK10662	 - 	cl21491
+Q#131 - >MIR-8_class_C	non-specific	171868	23	253	2.84749e-09	58.3291	PRK13128	PRK13128	C	cl31632
+Q#131 - >MIR-8_class_C	superfamily	171868	23	253	2.84749e-09	58.3291	cl31632	PRK13128 superfamily	C	 - 
+Q#131 - >MIR-8_class_C	non-specific	179620	2	210	6.77529e-06	47.8626	PRK03642	PRK03642	C	cl21491
+Q#132 - >MOR_class_C	specific	236894	1	379	0	573.762	PRK11289	ampC	 - 	cl21491
+Q#132 - >MOR_class_C	superfamily	451269	1	379	0	573.762	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#132 - >MOR_class_C	specific	395092	31	379	3.8858e-91	276.691	pfam00144	Beta-lactamase	 - 	cl21491
+Q#132 - >MOR_class_C	specific	224594	1	377	1.98549e-54	184.043	COG1680	AmpC	 - 	cl43486
+Q#132 - >MOR_class_C	superfamily	224594	1	377	1.98549e-54	184.043	cl43486	AmpC superfamily	 - 	 - 
+Q#132 - >MOR_class_C	non-specific	236732	1	360	3.60765e-34	129.767	PRK10662	PRK10662	 - 	cl21491
+Q#132 - >MOR_class_C	non-specific	171868	45	252	1.79336e-08	56.0179	PRK13128	PRK13128	C	cl31632
+Q#132 - >MOR_class_C	superfamily	171868	45	252	1.79336e-08	56.0179	cl31632	PRK13128 superfamily	C	 - 
+Q#132 - >MOR_class_C	non-specific	179620	8	206	0.000558082	41.6994	PRK03642	PRK03642	C	cl21491
+Q#133 - >MOX-1_class_C	specific	236894	5	381	0	609.97	PRK11289	ampC	 - 	cl21491
+Q#133 - >MOX-1_class_C	superfamily	451269	5	381	0	609.97	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#133 - >MOX-1_class_C	specific	395092	36	381	1.64073e-86	265.135	pfam00144	Beta-lactamase	 - 	cl21491
+Q#133 - >MOX-1_class_C	specific	224594	4	377	1.03028e-46	164.013	COG1680	AmpC	 - 	cl43486
+Q#133 - >MOX-1_class_C	superfamily	224594	4	377	1.03028e-46	164.013	cl43486	AmpC superfamily	 - 	 - 
+Q#133 - >MOX-1_class_C	non-specific	236732	11	362	6.59821e-16	78.1507	PRK10662	PRK10662	 - 	cl21491
+Q#133 - >MOX-1_class_C	non-specific	179620	50	214	2.01449e-05	46.3218	PRK03642	PRK03642	C	cl21491
+Q#134 - >MOX-2_class_C	specific	236894	5	381	0	607.659	PRK11289	ampC	 - 	cl21491
+Q#134 - >MOX-2_class_C	superfamily	451269	5	381	0	607.659	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#134 - >MOX-2_class_C	specific	395092	36	377	1.44859e-84	260.128	pfam00144	Beta-lactamase	 - 	cl21491
+Q#134 - >MOX-2_class_C	specific	224594	4	377	6.9737e-48	167.094	COG1680	AmpC	 - 	cl43486
+Q#134 - >MOX-2_class_C	superfamily	224594	4	377	6.9737e-48	167.094	cl43486	AmpC superfamily	 - 	 - 
+Q#134 - >MOX-2_class_C	non-specific	236732	11	362	4.40613e-15	75.8395	PRK10662	PRK10662	 - 	cl21491
+Q#134 - >MOX-2_class_C	non-specific	179620	50	230	2.14056e-06	49.4034	PRK03642	PRK03642	C	cl21491
+Q#134 - >MOX-2_class_C	non-specific	171868	34	231	1.19693e-05	47.1583	PRK13128	PRK13128	C	cl31632
+Q#134 - >MOX-2_class_C	superfamily	171868	34	231	1.19693e-05	47.1583	cl31632	PRK13128 superfamily	C	 - 
+Q#135 - >MOX-3_class_C	specific	236894	5	381	0	607.274	PRK11289	ampC	 - 	cl21491
+Q#135 - >MOX-3_class_C	superfamily	451269	5	381	0	607.274	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#135 - >MOX-3_class_C	specific	395092	36	377	4.80427e-85	261.283	pfam00144	Beta-lactamase	 - 	cl21491
+Q#135 - >MOX-3_class_C	specific	224594	4	377	1.86836e-47	165.939	COG1680	AmpC	 - 	cl43486
+Q#135 - >MOX-3_class_C	superfamily	224594	4	377	1.86836e-47	165.939	cl43486	AmpC superfamily	 - 	 - 
+Q#135 - >MOX-3_class_C	non-specific	236732	11	362	3.46506e-15	76.2247	PRK10662	PRK10662	 - 	cl21491
+Q#135 - >MOX-3_class_C	non-specific	179620	50	230	2.33836e-06	49.0182	PRK03642	PRK03642	C	cl21491
+Q#135 - >MOX-3_class_C	non-specific	171868	34	231	3.34074e-05	45.6175	PRK13128	PRK13128	C	cl31632
+Q#135 - >MOX-3_class_C	superfamily	171868	34	231	3.34074e-05	45.6175	cl31632	PRK13128 superfamily	C	 - 
+Q#136 - >MOX-4_class_C	specific	236894	5	381	0	606.504	PRK11289	ampC	 - 	cl21491
+Q#136 - >MOX-4_class_C	superfamily	451269	5	381	0	606.504	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#136 - >MOX-4_class_C	specific	395092	36	377	5.01679e-85	261.283	pfam00144	Beta-lactamase	 - 	cl21491
+Q#136 - >MOX-4_class_C	specific	224594	11	377	4.84763e-47	164.783	COG1680	AmpC	 - 	cl43486
+Q#136 - >MOX-4_class_C	superfamily	224594	11	377	4.84763e-47	164.783	cl43486	AmpC superfamily	 - 	 - 
+Q#136 - >MOX-4_class_C	non-specific	236732	11	362	5.81263e-15	75.4543	PRK10662	PRK10662	 - 	cl21491
+Q#136 - >MOX-4_class_C	non-specific	179620	50	230	1.99443e-06	49.4034	PRK03642	PRK03642	C	cl21491
+Q#136 - >MOX-4_class_C	non-specific	171868	34	231	1.31826e-05	47.1583	PRK13128	PRK13128	C	cl31632
+Q#136 - >MOX-4_class_C	superfamily	171868	34	231	1.31826e-05	47.1583	cl31632	PRK13128 superfamily	C	 - 
+Q#137 - >MOX-5_class_C	specific	236894	5	382	0	558.739	PRK11289	ampC	 - 	cl21491
+Q#137 - >MOX-5_class_C	superfamily	451269	5	382	0	558.739	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#137 - >MOX-5_class_C	specific	395092	36	378	9.34481e-78	242.794	pfam00144	Beta-lactamase	 - 	cl21491
+Q#137 - >MOX-5_class_C	specific	224594	4	367	8.0181e-40	145.523	COG1680	AmpC	 - 	cl43486
+Q#137 - >MOX-5_class_C	superfamily	224594	4	367	8.0181e-40	145.523	cl43486	AmpC superfamily	 - 	 - 
+Q#137 - >MOX-5_class_C	non-specific	236732	11	363	1.09468e-11	65.4391	PRK10662	PRK10662	 - 	cl21491
+Q#137 - >MOX-5_class_C	non-specific	179620	50	214	6.20751e-06	47.8626	PRK03642	PRK03642	C	cl21491
+Q#137 - >MOX-5_class_C	non-specific	171868	34	94	0.000417799	42.1507	PRK13128	PRK13128	C	cl31632
+Q#137 - >MOX-5_class_C	superfamily	171868	34	94	0.000417799	42.1507	cl31632	PRK13128 superfamily	C	 - 
+Q#138 - >MOX-6_class_C	specific	236894	5	382	0	574.147	PRK11289	ampC	 - 	cl21491
+Q#138 - >MOX-6_class_C	superfamily	451269	5	382	0	574.147	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#138 - >MOX-6_class_C	specific	395092	36	378	6.87074e-80	248.187	pfam00144	Beta-lactamase	 - 	cl21491
+Q#138 - >MOX-6_class_C	specific	224594	4	367	2.70863e-44	157.464	COG1680	AmpC	 - 	cl43486
+Q#138 - >MOX-6_class_C	superfamily	224594	4	367	2.70863e-44	157.464	cl43486	AmpC superfamily	 - 	 - 
+Q#138 - >MOX-6_class_C	non-specific	236732	11	363	2.72826e-14	73.5283	PRK10662	PRK10662	 - 	cl21491
+Q#138 - >MOX-6_class_C	non-specific	179620	50	214	9.87329e-08	53.6406	PRK03642	PRK03642	C	cl21491
+Q#138 - >MOX-6_class_C	non-specific	171868	34	231	1.62079e-05	46.7731	PRK13128	PRK13128	C	cl31632
+Q#138 - >MOX-6_class_C	superfamily	171868	34	231	1.62079e-05	46.7731	cl31632	PRK13128 superfamily	C	 - 
+Q#139 - >MOX-7_class_C	specific	236894	5	382	0	584.162	PRK11289	ampC	 - 	cl21491
+Q#139 - >MOX-7_class_C	superfamily	451269	5	382	0	584.162	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#139 - >MOX-7_class_C	specific	395092	36	378	5.84301e-80	248.187	pfam00144	Beta-lactamase	 - 	cl21491
+Q#139 - >MOX-7_class_C	specific	224594	4	378	1.98039e-43	155.153	COG1680	AmpC	 - 	cl43486
+Q#139 - >MOX-7_class_C	superfamily	224594	4	378	1.98039e-43	155.153	cl43486	AmpC superfamily	 - 	 - 
+Q#139 - >MOX-7_class_C	non-specific	236732	11	383	5.53296e-14	72.3727	PRK10662	PRK10662	 - 	cl21491
+Q#139 - >MOX-7_class_C	non-specific	179620	50	211	1.03269e-06	50.1738	PRK03642	PRK03642	C	cl21491
+Q#139 - >MOX-7_class_C	non-specific	171868	34	231	4.17868e-05	45.2323	PRK13128	PRK13128	C	cl31632
+Q#139 - >MOX-7_class_C	superfamily	171868	34	231	4.17868e-05	45.2323	cl31632	PRK13128 superfamily	C	 - 
+Q#140 - >OCH-2_class_C	specific	236894	1	387	0	639.631	PRK11289	ampC	 - 	cl21491
+Q#140 - >OCH-2_class_C	superfamily	451269	1	387	0	639.631	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#140 - >OCH-2_class_C	specific	395092	38	386	1.92874e-86	265.135	pfam00144	Beta-lactamase	 - 	cl21491
+Q#140 - >OCH-2_class_C	specific	224594	1	385	3.37064e-53	181.347	COG1680	AmpC	 - 	cl43486
+Q#140 - >OCH-2_class_C	superfamily	224594	1	385	3.37064e-53	181.347	cl43486	AmpC superfamily	 - 	 - 
+Q#140 - >OCH-2_class_C	non-specific	236732	1	368	3.68361e-21	93.9439	PRK10662	PRK10662	 - 	cl21491
+Q#140 - >OCH-2_class_C	non-specific	179620	46	216	1.11716e-06	50.1738	PRK03642	PRK03642	C	cl21491
+Q#141 - >OCH-3_class_C	specific	236894	1	387	0	643.868	PRK11289	ampC	 - 	cl21491
+Q#141 - >OCH-3_class_C	superfamily	451269	1	387	0	643.868	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#141 - >OCH-3_class_C	specific	395092	38	386	5.04022e-87	266.676	pfam00144	Beta-lactamase	 - 	cl21491
+Q#141 - >OCH-3_class_C	specific	224594	1	385	7.43706e-53	180.191	COG1680	AmpC	 - 	cl43486
+Q#141 - >OCH-3_class_C	superfamily	224594	1	385	7.43706e-53	180.191	cl43486	AmpC superfamily	 - 	 - 
+Q#141 - >OCH-3_class_C	non-specific	236732	1	368	1.7779e-24	103.189	PRK10662	PRK10662	 - 	cl21491
+Q#141 - >OCH-3_class_C	non-specific	179620	46	216	2.41212e-08	55.5666	PRK03642	PRK03642	C	cl21491
+Q#142 - >OCH-4_class_C	specific	236894	1	387	0	640.786	PRK11289	ampC	 - 	cl21491
+Q#142 - >OCH-4_class_C	superfamily	451269	1	387	0	640.786	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#142 - >OCH-4_class_C	specific	395092	38	386	5.59873e-88	268.987	pfam00144	Beta-lactamase	 - 	cl21491
+Q#142 - >OCH-4_class_C	specific	224594	1	385	1.77041e-53	182.117	COG1680	AmpC	 - 	cl43486
+Q#142 - >OCH-4_class_C	superfamily	224594	1	385	1.77041e-53	182.117	cl43486	AmpC superfamily	 - 	 - 
+Q#142 - >OCH-4_class_C	non-specific	236732	1	368	3.90643e-23	99.3367	PRK10662	PRK10662	 - 	cl21491
+Q#142 - >OCH-4_class_C	non-specific	179620	46	216	3.8663e-07	51.7146	PRK03642	PRK03642	C	cl21491
+Q#143 - >OCH-5_class_C	specific	236894	1	387	0	641.557	PRK11289	ampC	 - 	cl21491
+Q#143 - >OCH-5_class_C	superfamily	451269	1	387	0	641.557	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#143 - >OCH-5_class_C	specific	395092	38	386	6.65763e-88	268.987	pfam00144	Beta-lactamase	 - 	cl21491
+Q#143 - >OCH-5_class_C	specific	224594	1	385	3.26559e-53	181.347	COG1680	AmpC	 - 	cl43486
+Q#143 - >OCH-5_class_C	superfamily	224594	1	385	3.26559e-53	181.347	cl43486	AmpC superfamily	 - 	 - 
+Q#143 - >OCH-5_class_C	non-specific	236732	1	368	9.08012e-26	107.041	PRK10662	PRK10662	 - 	cl21491
+Q#143 - >OCH-5_class_C	non-specific	179620	46	216	2.24671e-08	55.5666	PRK03642	PRK03642	C	cl21491
+Q#144 - >OCH-6_class_C	specific	236894	1	387	0	643.098	PRK11289	ampC	 - 	cl21491
+Q#144 - >OCH-6_class_C	superfamily	451269	1	387	0	643.098	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#144 - >OCH-6_class_C	specific	395092	38	386	7.10445e-88	268.987	pfam00144	Beta-lactamase	 - 	cl21491
+Q#144 - >OCH-6_class_C	specific	224594	1	385	1.75182e-53	182.117	COG1680	AmpC	 - 	cl43486
+Q#144 - >OCH-6_class_C	superfamily	224594	1	385	1.75182e-53	182.117	cl43486	AmpC superfamily	 - 	 - 
+Q#144 - >OCH-6_class_C	non-specific	236732	1	368	7.41582e-21	92.7883	PRK10662	PRK10662	 - 	cl21491
+Q#144 - >OCH-6_class_C	non-specific	179620	46	216	3.79848e-07	51.7146	PRK03642	PRK03642	C	cl21491
+Q#145 - >OCH-7_class_C	specific	236894	1	387	0	641.557	PRK11289	ampC	 - 	cl21491
+Q#145 - >OCH-7_class_C	superfamily	451269	1	387	0	641.557	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#145 - >OCH-7_class_C	specific	395092	38	386	2.3626e-87	267.447	pfam00144	Beta-lactamase	 - 	cl21491
+Q#145 - >OCH-7_class_C	specific	224594	1	385	8.99218e-53	180.191	COG1680	AmpC	 - 	cl43486
+Q#145 - >OCH-7_class_C	superfamily	224594	1	385	8.99218e-53	180.191	cl43486	AmpC superfamily	 - 	 - 
+Q#145 - >OCH-7_class_C	non-specific	236732	1	368	2.09045e-21	94.3291	PRK10662	PRK10662	 - 	cl21491
+Q#145 - >OCH-7_class_C	non-specific	179620	46	216	3.79848e-07	51.7146	PRK03642	PRK03642	C	cl21491
+Q#146 - >OCH-8_class_C	specific	236894	1	387	0	645.024	PRK11289	ampC	 - 	cl21491
+Q#146 - >OCH-8_class_C	superfamily	451269	1	387	0	645.024	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#146 - >OCH-8_class_C	specific	395092	38	386	1.96549e-87	267.832	pfam00144	Beta-lactamase	 - 	cl21491
+Q#146 - >OCH-8_class_C	specific	224594	1	385	6.48394e-53	180.576	COG1680	AmpC	 - 	cl43486
+Q#146 - >OCH-8_class_C	superfamily	224594	1	385	6.48394e-53	180.576	cl43486	AmpC superfamily	 - 	 - 
+Q#146 - >OCH-8_class_C	non-specific	236732	1	368	5.00877e-24	102.033	PRK10662	PRK10662	 - 	cl21491
+Q#146 - >OCH-8_class_C	non-specific	179620	46	216	2.52811e-07	52.0998	PRK03642	PRK03642	C	cl21491
+Q#147 - >TRU-1_class_C	specific	236894	23	381	0	588.784	PRK11289	ampC	 - 	cl21491
+Q#147 - >TRU-1_class_C	superfamily	451269	23	381	0	588.784	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#147 - >TRU-1_class_C	specific	395092	33	381	3.28957e-85	261.669	pfam00144	Beta-lactamase	 - 	cl21491
+Q#147 - >TRU-1_class_C	specific	224594	25	378	5.94553e-54	182.888	COG1680	AmpC	 - 	cl43486
+Q#147 - >TRU-1_class_C	superfamily	224594	25	378	5.94553e-54	182.888	cl43486	AmpC superfamily	 - 	 - 
+Q#147 - >TRU-1_class_C	non-specific	236732	18	362	8.90786e-17	80.8471	PRK10662	PRK10662	 - 	cl21491
+Q#147 - >TRU-1_class_C	non-specific	171868	33	228	1.31568e-08	56.4031	PRK13128	PRK13128	C	cl31632
+Q#147 - >TRU-1_class_C	superfamily	171868	33	228	1.31568e-08	56.4031	cl31632	PRK13128 superfamily	C	 - 
+Q#147 - >TRU-1_class_C	non-specific	179620	47	208	8.10069e-05	44.3958	PRK03642	PRK03642	C	cl21491
+Q#148 - >ZEG-1_class_C	specific	236894	1	337	0	553.731	PRK11289	ampC	 - 	cl21491
+Q#148 - >ZEG-1_class_C	superfamily	451269	1	337	0	553.731	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#148 - >ZEG-1_class_C	specific	395092	12	337	5.26629e-85	259.743	pfam00144	Beta-lactamase	 - 	cl21491
+Q#148 - >ZEG-1_class_C	specific	224594	12	337	6.7485e-49	168.25	COG1680	AmpC	 - 	cl43486
+Q#148 - >ZEG-1_class_C	superfamily	224594	12	337	6.7485e-49	168.25	cl43486	AmpC superfamily	 - 	 - 
+Q#148 - >ZEG-1_class_C	non-specific	236732	1	336	3.45498e-23	98.5663	PRK10662	PRK10662	 - 	cl21491
+Q#148 - >ZEG-1_class_C	non-specific	171868	26	233	9.4409e-08	53.3215	PRK13128	PRK13128	C	cl31632
+Q#148 - >ZEG-1_class_C	superfamily	171868	26	233	9.4409e-08	53.3215	cl31632	PRK13128 superfamily	C	 - 
+Q#148 - >ZEG-1_class_C	non-specific	179620	44	190	0.000564845	41.3142	PRK03642	PRK03642	C	cl21491

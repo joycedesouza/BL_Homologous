@@ -7,4 +7,4 @@ pfam*-class-*.hmm: HMM models
 
 class-*-hmmsearch.fasta: prospected sequences from genomes
 
-cdhit-class-*-pfam*.csv: prospected sequences from genomes with completed domain
+cdhit-class*-pfam*.csv: prospected sequences from genomes with completed domain

@@ -8,3 +8,5 @@ pfam*-class-*.hmm: HMM models
 class-*-hmmsearch.fasta: prospected sequences from genomes
 
 cdhit-class*-pfam*.csv: prospected sequences from genomes with complete domain
+
+Table_S1.csv: antimicrobial resistance metadata from 1827 genomes mined from BV-BRC database

@@ -10,3 +10,7 @@ class-*-hmmsearch.fasta: prospected sequences from genomes
 cdhit-class*-pfam*.csv: prospected sequences from genomes with complete domain
 
 Table_S1.csv: antimicrobial resistance metadata from 1827 genomes mined from BV-BRC database
+
+proteins-mics-genomes.csv: protein group count by genome
+
+Comparation-proteins-genome-resistance.R: Statistical analysis R script

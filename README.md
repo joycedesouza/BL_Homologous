@@ -13,4 +13,4 @@ Table_S1.csv: antimicrobial resistance metadata from 1827 genomes mined from BV-
 
 proteins-mics-genomes.csv: protein group count by genome
 
-comparation-proteins-genome-resistance.R: statistical analysis R script
+comparing-proteins-genome-resistance.R: statistical analysis R script
